@@ -25,9 +25,9 @@ app.get("/:id",async (req,res)=>{
   if(!student){
     return res.status(404).send("Student not found")
   }
-  if(student.entred){
-    return res.status(400).send("Student already entered")
-  }
+//   if(student.entred){
+//     return res.status(400).send("Student already entered")
+//   }
   await students.updateOne({_id:new ObjectId(req.params.id)},{$set:{entred:true}})
   axios.post("https://script.google.com/macros/s/AKfycbwKtN67iFYLTjRKa_i5cjX5dxdxusulhbokCw960pWpwVDYwZrsxP2iJwHpDATBc0Up/exec",{...student,entred:true}).then(res=>console.log(res.data)).catch(err=>console.log(err))
   res.send(student)
