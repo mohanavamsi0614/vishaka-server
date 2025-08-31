@@ -1,0 +1,39 @@
+const {MongoClient}=require('mongodb');
+const {ObjectId}=require("mongodb")
+const dot=require("dotenv").config()
+const client=new MongoClient(process.env.DB_URI);
+const express=require("express");
+const { default: axios } = require('axios');
+const app=express();
+client.connect()
+  .then(() => {
+    console.log("Connected to MongoDB");
+  })
+  .catch((err) => {
+    console.error("Error connecting to MongoDB:", err);
+  });
+const students =client.db("spraks").collection("students")
+app.use(express.json())
+app.get("/",(req,res)=>{
+  res.send("Hello World")
+})
+app.get("/:id",async (req,res)=>{
+  const student=await students.findOne({_id:new ObjectId(req.params.id)})
+  
+  if(!student){
+    return res.status(404).send("Student not found")
+  }
+  if(student.entred){
+    return res.status(400).send("Student already entered")
+  }
+  await students.updateOne({_id:new ObjectId(req.params.id)},{$set:{entred:true}})
+  axios.post("https://script.google.com/macros/s/AKfycbwKtN67iFYLTjRKa_i5cjX5dxdxusulhbokCw960pWpwVDYwZrsxP2iJwHpDATBc0Up/exec",{...student,entred:true}).then(res=>console.log(res.data)).catch(err=>console.log(err))
+  res.send(student)
+})
+app.get("/all",async (req,res)=>{
+    const allStudents=await students.find().toArray();
+    res.send(allStudents);
+})
+app.listen(5000, () => {
+  console.log("Server is running on http://localhost:5000");
+});
