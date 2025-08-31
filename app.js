@@ -5,6 +5,7 @@ const client=new MongoClient(process.env.DB_URI);
 const express=require("express");
 const { default: axios } = require('axios');
 const app=express();
+const cors=require("cors")
 client.connect()
   .then(() => {
     console.log("Connected to MongoDB");
@@ -14,6 +15,7 @@ client.connect()
   });
 const students =client.db("spraks").collection("students")
 app.use(express.json())
+app.use(cors())
 app.get("/",(req,res)=>{
   res.send("Hello World")
 })

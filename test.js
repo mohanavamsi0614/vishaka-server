@@ -2,7 +2,7 @@ const axios = require('axios');
 const fs = require('fs');
 
 axios.get(
-  'https://api.qrserver.com/v1/create-qr-code/?data=' + encodeURIComponent('http://localhost:5000/68b425d00aaf0bb54a2d7464') + '&size=200x200',
+  'https://api.qrserver.com/v1/create-qr-code/?data=' + encodeURIComponent('https://vishaka-server.onrender.com/68b425d00aaf0bb54a2d7464') + '&size=200x200',
   { responseType: 'stream' }
 ).then(response => {
   // Write response data (as a stream) directly to a file
