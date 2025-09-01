@@ -30,7 +30,7 @@ app.get("/:id",async (req,res)=>{
     return   res.json({...student,status:"already"})
 
   }
-  res.json({...student,status:"done"})
+  res.json({...student,status:"verified"})
 })
 app.post("/admit/:id",async (req,res)=>{
   const student=await students.findOne({_id:new ObjectId(req.params.id)})

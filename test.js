@@ -1,15 +1,30 @@
 const axios = require('axios');
 const fs = require('fs');
+const {MongoClient}=require('mongodb');
+const {ObjectId}=require("mongodb")
+const dot=require("dotenv").config()
+const client=new MongoClient(process.env.DB_URI);
 
+
+client.connect()
+  .then(() => {
+    console.log("Connected to MongoDB");
+  })
+  .catch((err) => {
+    console.error("Error connecting to MongoDB:", err);
+  });
+const students = client.db("spraks").collection("students").find().toArray().then((students)=>{
+
+for(let i of students){
 axios.get(
-  'https://api.qrserver.com/v1/create-qr-code/?data=' + encodeURIComponent('https://vishaka-server.onrender.com/68b425d00aaf0bb54a2d7464') + '&size=200x200',
+  'https://api.qrserver.com/v1/create-qr-code/?data=' + encodeURIComponent('https://vishaka-server.onrender.com/'+i._id) + '&size=200x200',
   { responseType: 'stream' }
 ).then(response => {
   // Write response data (as a stream) directly to a file
-  response.data.pipe(fs.createWriteStream('qrcode.png'));
+  response.data.pipe(fs.createWriteStream(i.name + 'qrcode.png'));
 
   response.data.on('end', () => {
-    console.log('QR Code image saved as qrcode.png');
+    console.log('QR Code image saved as ' + i.name + 'qrcode.png');
   });
   response.data.on('error', err => {
     console.error('Error writing QR Code image:', err);
@@ -17,3 +32,9 @@ axios.get(
 }).catch(error => {
   console.error('Error generating QR code:', error);
 });
+}
+
+
+
+
+})
