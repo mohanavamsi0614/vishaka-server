@@ -38,7 +38,7 @@ app.post("/admit/:id",async (req,res)=>{
     return res.status(404).send("Student not found")
   }
   await students.updateOne({_id:new ObjectId(req.params.id)},{$set:{entred:true}})
-  axios.post("https://script.google.com/macros/s/AKfycbwKtN67iFYLTjRKa_i5cjX5dxdxusulhbokCw960pWpwVDYwZrsxP2iJwHpDATBc0Up/exec",{...student,entred:true}).then(res=>console.log(res.data)).catch(err=>console.log(err))
+  axios.post("https://script.google.com/macros/s/AKfycbzdydJPV2obiLiz3fUKj3fccRjLbYtD6Ip1Tj3N0uJcN8rxFpHCW0KXoarY0jZfO4I/exec",{...student,entred:true}).then(res=>console.log(res.data)).catch(err=>console.log(err))
   res.json({...student,status:"verified"})
 })
 app.get("/all",async (req,res)=>{
