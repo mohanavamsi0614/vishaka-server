@@ -26,7 +26,7 @@ app.get("/:id",async (req,res)=>{
   if(!student){
     return res.status(404).send("Student not found")
   }
-  if(student.exit){
+  if(student.exit_time){
     return   res.json({...student,status:"exited"})
   }
   if(student.entred){
