@@ -15,12 +15,13 @@ client.connect()
   });
 const students =client.db("spraks").collection("students")
 app.use(express.json())
+app.use(express.static("./"))
 app.use(cors({origin:"*"}))
 
 app.get("/",(req,res)=>{
   res.send("Hello World")
 })
-app.get("/:id",async (req,res)=>{
+app.get("/qr/:id",async (req,res)=>{
   const student=await students.findOne({_id:new ObjectId(req.params.id)})
   
   if(!student){
