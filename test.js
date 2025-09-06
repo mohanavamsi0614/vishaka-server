@@ -46,10 +46,11 @@ const transporter = nodemailer.createTransport({
   },
   service:"gmail"
 })
-
-transporter.sendMail({
-  from:"",
-  to:"",
+const stu=[{"email":"barnessamuel2004@gmail.com",image:"https://vishaka-server.onrender.com/Samba sushanthqrcode.png"},{email:"99220041252@klu.ac.in",image:"https://vishaka-server.onrender.com/Thota.Jaimadhurishqrcode.png"},{email:"99220041551@klu.ac.in",image:"https://vishaka-server.onrender.com/Vejandla Aravind Aarivqrcode.png"}]
+for (let i of  stu){
+ transporter.sendMail({
+  from:"mohanavamsi14@gmail.com",
+  to:i.email,
   subject:"Test mail",
   html:`<!DOCTYPE html>
 <html>
@@ -87,7 +88,7 @@ transporter.sendMail({
             <!-- QR Code -->
             <tr>
               <td>
-                <img src="cid:qrcode" alt="QR Code" width="180" style="margin:20px auto; display:block; border-radius:8px; background:#fff; padding:10px;">
+                <img src="${i.image}" alt="QR Code" width="180" style="margin:20px auto; display:block; border-radius:8px; background:#fff; padding:10px;">
               </td>
             </tr>
 
@@ -121,4 +122,6 @@ transporter.sendMail({
   </body>
 </html>
 `
-})
+}).then((res)=>console.log(res)).catch(err=>console.log(err))
+}
+console.log("Mails sent")
