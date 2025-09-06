@@ -17,7 +17,7 @@
 
 // for(let i of students){
 // axios.get(
-//   'https://api.qrserver.com/v1/create-qr-code/?data=' + encodeURIComponent('https://vishaka-server.onrender.com/'+i._id) + '&size=200x200',
+//   'https://api.qrserver.com/v1/create-qr-code/?data=' + encodeURIComponent('https://vishaka-server.onrender.com/qr/'+i._id) + '&size=200x200',
 //   { responseType: 'stream' }
 // ).then(response => {
 //   // Write response data (as a stream) directly to a file
@@ -33,10 +33,6 @@
 //   console.error('Error generating QR code:', error);
 // });
 // }
-
-
-
-
 // })
 const nodemailer = require('nodemailer');
 const transporter = nodemailer.createTransport({
