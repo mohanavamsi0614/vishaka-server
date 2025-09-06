@@ -1,0 +1,5177 @@
+[
+    {
+        "email": "amruthamerugumala@gmail.com",
+        "slip_number": 1,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 9963583308,
+        "name": "M.Amrutha",
+        "app_number": "2025KARE00397"
+    },
+    {
+        "email": "saisriharshasomepalli07@gmail.com",
+        "slip_number": 2,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 6305508008,
+        "name": "Sai Sri Harsha Somepalli",
+        "app_number": "2025kARE06098"
+    },
+    {
+        "email": "faizan.vyr@gmail.com",
+        "slip_number": 3,
+        "Year": "I",
+        "Branch": "CSE(AI ML)",
+        "phonenumber": 9154096227,
+        "name": "Faizan Ahmad Baig",
+        "app_number": "2025KARE02622"
+    },
+    {
+        "email": "nitish.katta07@gmail.com",
+        "slip_number": 4,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8008069997,
+        "name": "Katta nitish kumar",
+        "app_number": "2025KARE03115"
+    },
+    {
+        "email": "bharathichakri469@gmail.com",
+        "slip_number": 5,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 9390817191,
+        "name": "A.prabhakara",
+        "app_number": "2025KARE07482"
+    },
+    {
+        "email": "charantavanam2007@gmail.com",
+        "slip_number": 6,
+        "Year": "I",
+        "Branch": "Mechanical",
+        "phonenumber": 8498963814,
+        "name": "Charan",
+        "app_number": "2025KARE06171"
+    },
+    {
+        "email": "dmadhavi455@gmail.com",
+        "slip_number": 7,
+        "Year": "I",
+        "Branch": "CSE(AIML)",
+        "phonenumber": 9502132493,
+        "name": "D.CHARAN",
+        "app_number": "2025KARE06577"
+    },
+    {
+        "email": "charanreddymuni@gmail.com",
+        "slip_number": 8,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9391300795,
+        "name": "M. Reddy Muni charan",
+        "app_number": "2025KARE05234"
+    },
+    {
+        "email": "revanthuppala2803@gmail.com",
+        "slip_number": 9,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 8002211811,
+        "name": "U.revanth",
+        "app_number": "2025KARE04942"
+    },
+    {
+        "email": "mrshyamraj2007@gmail.com",
+        "slip_number": 10,
+        "Year": "I",
+        "Branch": "Biotech",
+        "phonenumber": 7695024188,
+        "name": "Shyam raj",
+        "app_number": "2025kARE05877"
+    },
+    {
+        "email": "jitheshrachapalli26@gmail.com",
+        "slip_number": 11,
+        "Year": "I",
+        "Branch": "CSE AIML",
+        "phonenumber": 6303886587,
+        "name": "Rachapalli Balavenkata Krishna Jithesh",
+        "app_number": "2025KARE05721"
+    },
+    {
+        "email": "baddamvishwa445@gmail.com",
+        "slip_number": 12,
+        "Year": "I",
+        "Branch": "Cse(aiml)",
+        "phonenumber": 8688252781,
+        "name": "Baddam vishwa Teja Reddy",
+        "app_number": "2025KARE06048"
+    },
+    {
+        "email": "premkumarreddylakkireddy71@gmail.com",
+        "slip_number": 13,
+        "Year": "I",
+        "Branch": "CSE(AIML)",
+        "phonenumber": 7207947956,
+        "name": "L.prem kumar reddy",
+        "app_number": "2025KARE06085"
+    },
+    {
+        "email": "supergamerslnjm@gmail.com",
+        "slip_number": 14,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 6281621832,
+        "name": "V. Dinesh",
+        "app_number": "2025KARE05797"
+    },
+    {
+        "email": "sathishrakkasi05@gmail.com",
+        "slip_number": 15,
+        "Year": "I",
+        "Branch": "Cse(AIML)",
+        "phonenumber": 8978396102,
+        "name": "R.sathish Reddy",
+        "app_number": "2025KARE06268"
+    },
+    {
+        "email": "jason2222.ja@gmail.com",
+        "slip_number": 16,
+        "Year": "I",
+        "Branch": "CSE AI/ML",
+        "phonenumber": 9344760162,
+        "name": "JASON HARVEY",
+        "app_number": "2025KARE03626"
+    },
+    {
+        "email": "gunaaldharsan2006@gmail.com",
+        "slip_number": 17,
+        "Year": "I",
+        "Branch": "Mech",
+        "phonenumber": 8248769260,
+        "name": "Gunaal Dharsan",
+        "app_number": "2025KARE04115"
+    },
+    {
+        "email": "balarithik15@gmail.com",
+        "slip_number": 18,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9943708688,
+        "name": "Bala Rithik",
+        "app_number": "2025KARE04774"
+    },
+    {
+        "email": "ramtejanadavati@gmail.com",
+        "slip_number": 19,
+        "Year": "I",
+        "Branch": "Cse (aiml)",
+        "phonenumber": 8328651915,
+        "name": "Nadavati ramteja",
+        "app_number": "2025KARE06488"
+    },
+    {
+        "email": "dineshcheerla3@gmail.com",
+        "slip_number": 20,
+        "Year": "I",
+        "Branch": "CSE AIDS",
+        "phonenumber": 8179117932,
+        "name": "Ch.dinesh kumar reddy",
+        "app_number": "2025KARE06478"
+    },
+    {
+        "email": "tambubalaji2005@gmail.com",
+        "slip_number": 21,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 9154862353,
+        "name": "THAMBU.BALAJI",
+        "app_number": "2025KARE07568"
+    },
+    {
+        "email": "balajiboya4@gmail.com",
+        "slip_number": 22,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8121639630,
+        "name": "Boya Balaji",
+        "app_number": "2025KARE06812"
+    },
+    {
+        "email": "ameeshaammaji@gmail.com",
+        "slip_number": 23,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9032235683,
+        "name": "B.Ameesha",
+        "app_number": "2025KARE01699"
+    },
+    {
+        "email": "prathimameenakshi30@gmail.com",
+        "slip_number": 24,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8870488474,
+        "name": "Prathima Meenakshi",
+        "app_number": "2025KARE01718"
+    },
+    {
+        "email": "baddulasrilekha@gmail.com",
+        "slip_number": 25,
+        "Year": "I",
+        "Branch": "Cse (AI andML)",
+        "phonenumber": 6304965289,
+        "name": "Srilekha",
+        "app_number": 99250040063
+    },
+    {
+        "email": "palaparthipravachana05@gmail.com",
+        "slip_number": 26,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9515550739,
+        "name": "Palaparthi pravachana",
+        "app_number": "2025KARE06042"
+    },
+    {
+        "email": "akhilayasmin786@gmail.com",
+        "slip_number": 28,
+        "Year": "I",
+        "Branch": "CSE(AI ML)",
+        "phonenumber": 7893735447,
+        "name": "S.Akhila Yasmin",
+        "app_number": "2025KARE07552"
+    },
+    {
+        "email": "poojithamallireddy22@gmail.com",
+        "slip_number": 29,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7995411573,
+        "name": "Mallireddy Poojitha",
+        "app_number": "2025KARE05540"
+    },
+    {
+        "email": "nellipudikaverinps@gmail.com",
+        "slip_number": 31,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9618405397,
+        "name": "Kaveri.Nellipudi",
+        "app_number": "2025KARE08234"
+    },
+    {
+        "email": "pujithavemuri07@gmail.com",
+        "slip_number": 32,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7893888483,
+        "name": "Vemuri.pujitha",
+        "app_number": "2025KARE06358"
+    },
+    {
+        "email": "karlahanikarla@gmail.com",
+        "slip_number": 33,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9391421280,
+        "name": "K.hani",
+        "app_number": "2025KARE06783"
+    },
+    {
+        "email": "pasupuletipallavi13@gmail.com",
+        "slip_number": 34,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 7075129694,
+        "name": "P.pallavi",
+        "app_number": "2025KARE07061"
+    },
+    {
+        "email": "sjnivee@gmail.com",
+        "slip_number": 35,
+        "Year": "I",
+        "Branch": "Biotechnology",
+        "phonenumber": 9787425608,
+        "name": "Niveetha.S",
+        "app_number": "2025KARE03232"
+    },
+    {
+        "email": "karunyaaharikrishnan@gmail.com",
+        "slip_number": 37,
+        "Year": "I",
+        "Branch": "Food technology",
+        "phonenumber": 6369510217,
+        "name": "Karunyaa.H",
+        "app_number": "2025KARE01725"
+    },
+    {
+        "email": "mindova54@gmail.com",
+        "slip_number": 38,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 8309529002,
+        "name": "K.Vennela",
+        "app_number": "2025KARE@05975"
+    },
+    {
+        "email": "sindureddy1918@gmail.com",
+        "slip_number": 44,
+        "Year": "I",
+        "Branch": "Btech ,CSE",
+        "phonenumber": 9391477834,
+        "name": "Sindu reddy.R",
+        "app_number": "2025KARE05953"
+    },
+    {
+        "email": "sasankanety2006@gmail.com",
+        "slip_number": 45,
+        "Year": "I",
+        "Branch": "Mech",
+        "phonenumber": 6300296193,
+        "name": "N V S V Sasanka",
+        "app_number": "2025KARE04566"
+    },
+    {
+        "email": "harish.mahendrakar1999@gmail.com",
+        "slip_number": 46,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 6301538869,
+        "name": "Sri Harish.M",
+        "app_number": "2025KARE01747"
+    },
+    {
+        "email": "kanumukkalapraveen@gmail.com",
+        "slip_number": 47,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7671820288,
+        "name": "K praveen",
+        "app_number": "047"
+    },
+    {
+        "email": "mokshithkrishna98@gmail.com",
+        "slip_number": 48,
+        "Year": "I",
+        "Branch": "CSE AIML",
+        "phonenumber": 9000090517,
+        "name": "NAGASAMUDRAM MOKSHITH KRISHNA",
+        "app_number": "2025KARE01273"
+    },
+    {
+        "email": "nallajoduvamsi@gmail.com",
+        "slip_number": 49,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 8978680729,
+        "name": "N vamshi",
+        "app_number": "2025KARE06645"
+    },
+    {
+        "email": "sushanthsamba663@gmail.com",
+        "slip_number": 51,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8500299679,
+        "name": "Samba sushanth",
+        "app_number": "2025KARE03410"
+    },
+    {
+        "email": "shiva2006rrr@gmail.com",
+        "slip_number": 52,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 8790306578,
+        "name": "R Shivaprasad",
+        "app_number": "2025KARE"
+    },
+    {
+        "email": "poojireddy2008@gmail.com",
+        "slip_number": 53,
+        "Year": "I",
+        "Branch": "CSE(AI&ML)",
+        "phonenumber": 9381107917,
+        "name": "D poojitha",
+        "app_number": "2025KARE07144"
+    },
+    {
+        "email": "saisravanthi34298@gmail.com",
+        "slip_number": 54,
+        "Year": "I",
+        "Branch": "CSE AIML",
+        "phonenumber": 9381596491,
+        "name": "D.Sai Sravanthi",
+        "app_number": "2025KARE03210"
+    },
+    {
+        "email": "bhavyakommoju1@gmail.com",
+        "slip_number": 55,
+        "Year": "I",
+        "Branch": "CSE(AI&ML)",
+        "phonenumber": 9154024285,
+        "name": "K bhavya sri Lakshmi",
+        "app_number": "2025KARE07062"
+    },
+    {
+        "email": "vinuthna2510@gmail.com",
+        "slip_number": 56,
+        "Year": "I",
+        "Branch": "CSE(AI&ML)",
+        "phonenumber": 9398526050,
+        "name": "V vinuthna",
+        "app_number": "2025KARE03217"
+    },
+    {
+        "email": "sravankumarbuddhana7@gmail.com",
+        "slip_number": 57,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7386388582,
+        "name": "buddhana.sravan kumar",
+        "app_number": "2025KARE01781"
+    },
+    {
+        "email": "kowshe1223@gmail.com",
+        "slip_number": 58,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9381591223,
+        "name": "Kowshik",
+        "app_number": "Kare@07216"
+    },
+    {
+        "email": "nellikartheek@gmail.com",
+        "slip_number": 59,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8897062928,
+        "name": "N.kartheek",
+        "app_number": "2025KARE05844"
+    },
+    {
+        "email": "nandeshnaidu90@gmail.com",
+        "slip_number": 60,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9502825630,
+        "name": "Nandesh Naidu",
+        "app_number": "2025KARE05795"
+    },
+    {
+        "email": "thotajaimadhurish@gmail.com",
+        "slip_number": 62,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9177778740,
+        "name": "Thota.Jaimadhurish",
+        "app_number": "2025KARE00168"
+    },
+    {
+        "email": "thribhuvansai3112@gmail.com",
+        "slip_number": 63,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 7702421016,
+        "name": "B .Tribhuvansai",
+        "app_number": "2025KARE00556"
+    },
+    {
+        "email": "sudhakarkarthikramavarapu@gmail.com",
+        "slip_number": 64,
+        "Year": "I",
+        "Branch": "CSE AIML",
+        "phonenumber": 9490801046,
+        "name": "Ramavarupu sudhakar karthik",
+        "app_number": "2025KARE05426"
+    },
+    {
+        "email": "sadepte314@gmail.com",
+        "slip_number": 65,
+        "Year": "I",
+        "Branch": "Cse(AI&ML)",
+        "phonenumber": 8125937236,
+        "name": "Datla sai sandeep varma",
+        "app_number": "2025KARE05786"
+    },
+    {
+        "email": "aravindaariv0904@gmail.com",
+        "slip_number": 66,
+        "Year": "I",
+        "Branch": "CSE (AI &ML)",
+        "phonenumber": 9963170070,
+        "name": "Vejandla Aravind Aariv",
+        "app_number": "2025KARE06181"
+    },
+    {
+        "email": "dedeepyareddyguggilla@gmail.com",
+        "slip_number": 67,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 8106327413,
+        "name": "G. Dedeepya",
+        "app_number": "2025KARE06231"
+    },
+    {
+        "email": "veni24072007@gmail.com",
+        "slip_number": 68,
+        "Year": "I",
+        "Branch": "CSE AIML",
+        "phonenumber": 9390928813,
+        "name": "A Krishnaveni",
+        "app_number": "2025KARE07283"
+    },
+    {
+        "email": "bhaavithareddy970@gmail.com",
+        "slip_number": 69,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7702333075,
+        "name": "Allugunta Bhaavitha",
+        "app_number": "2025KARE06232"
+    },
+    {
+        "email": "karavulavyshnavi@gmail.com",
+        "slip_number": 70,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 8019556537,
+        "name": "K.vyshnavi",
+        "app_number": "2025KARE05856"
+    },
+    {
+        "email": "preetireddy2808@gmail.com",
+        "slip_number": 71,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 7569442135,
+        "name": "G. Preethi",
+        "app_number": "2025KARE07395"
+    },
+    {
+        "email": "ashrithavarma03@gmail.com",
+        "slip_number": 72,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 7893227602,
+        "name": "Ashritha",
+        "app_number": "2025KARE04898"
+    },
+    {
+        "email": "lasyadakshiraju13@gmail.com",
+        "slip_number": 73,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7680819034,
+        "name": "D.Lasya",
+        "app_number": "2025KARE07583"
+    },
+    {
+        "email": "harikaakepati@gmail.com",
+        "slip_number": 74,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7075394656,
+        "name": "A harika",
+        "app_number": "2025KARE05477"
+    },
+    {
+        "email": "ragachenvithachenumati@gmail.com",
+        "slip_number": 75,
+        "Year": "I",
+        "Branch": "Food technology",
+        "phonenumber": 9515063338,
+        "name": "Chenumati raga chenvitha",
+        "app_number": "2025 KARE 07526"
+    },
+    {
+        "email": "pathakuntasrilekha1187@gmail.com",
+        "slip_number": 76,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9121633315,
+        "name": "P.Srilekha",
+        "app_number": "2025KARE05388"
+    },
+    {
+        "email": "ychandana871@gmail.com",
+        "slip_number": 77,
+        "Year": "I",
+        "Branch": "CSE(ai and ml)",
+        "phonenumber": 9059063331,
+        "name": "Y chandana",
+        "app_number": "2025KARE06160"
+    },
+    {
+        "email": "bsaisrujana1920@gmail.com",
+        "slip_number": 78,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 8919407419,
+        "name": "BSaisrujana",
+        "app_number": "2025KARE01173"
+    },
+    {
+        "email": "niharikaakula16@gmail.com",
+        "slip_number": 79,
+        "Year": "I",
+        "Branch": "IT",
+        "phonenumber": 9052910414,
+        "name": "A.Niharika",
+        "app_number": "2025KARE07072"
+    },
+    {
+        "email": "mysurusaivarshitharoyal16@gmail.com",
+        "slip_number": 80,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8688201153,
+        "name": "M Sai Varshitha Royal",
+        "app_number": "2025KARE06584"
+    },
+    {
+        "email": "pravallikagorantla37@gmail.com",
+        "slip_number": 81,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7075758167,
+        "name": "Gorantla Pravallika",
+        "app_number": "2025KARE07210"
+    },
+    {
+        "email": "geethanjaliravipati2008@gmail.com",
+        "slip_number": 82,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8179055206,
+        "name": "Ravipati Geethanjali",
+        "app_number": "2025KARE01049"
+    },
+    {
+        "email": "kondachethana@gmail.com",
+        "slip_number": 83,
+        "Year": "I",
+        "Branch": "Mec",
+        "phonenumber": 6305599097,
+        "name": "Konda Chethana",
+        "app_number": "2025KARE08115"
+    },
+    {
+        "email": "laharirachamalla06@gmail.com",
+        "slip_number": 84,
+        "Year": "I",
+        "Branch": "CSE(AILM)",
+        "phonenumber": 8790479625,
+        "name": "Rachamalla Lahari",
+        "app_number": "2025KARE03081"
+    },
+    {
+        "email": "pullapuramsribhavya@gmail.com",
+        "slip_number": 85,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 6300439076,
+        "name": "Sri Bhavya",
+        "app_number": "2025KARE0554"
+    },
+    {
+        "email": "joshnavikolli8@gmail.com",
+        "slip_number": 86,
+        "Year": "I",
+        "Branch": "CSE(AI&ML)",
+        "phonenumber": 6301118332,
+        "name": "Kolli Joshnavi",
+        "app_number": "2025KARE05038"
+    },
+    {
+        "email": "tanguturimahendra@gmail.com",
+        "slip_number": 88,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8317586540,
+        "name": "Tanguturi Mahendra reddy",
+        "app_number": "2025KARE05979"
+    },
+    {
+        "email": "vardhantkharsha554@gmail.com",
+        "slip_number": 89,
+        "Year": "I",
+        "Branch": "EcE",
+        "phonenumber": 6309009183,
+        "name": "TANGUTOORI KAMBAGIRI HARSHA",
+        "app_number": "2025KARE06400"
+    },
+    {
+        "email": "chegireddytejaswini@gmail.com",
+        "slip_number": 90,
+        "Year": "I",
+        "Branch": "Cse(ai&ml)",
+        "phonenumber": 7702570548,
+        "name": "C.tejaswini",
+        "app_number": "2025KARE06040"
+    },
+    {
+        "email": "chittamurumouni799@gmail.com",
+        "slip_number": 91,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 6309544329,
+        "name": "Chittamuru Mounika",
+        "app_number": "2025KARE02850"
+    },
+    {
+        "email": "vaddarapudileepdileep@gmail.com",
+        "slip_number": 92,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7569882662,
+        "name": "V.Dileep kumar",
+        "app_number": "2025KARE05998"
+    },
+    {
+        "email": "molakanisumanth@gmail.com",
+        "slip_number": 93,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8247076003,
+        "name": "M.sumanth",
+        "app_number": "2025KARE05994"
+    },
+    {
+        "email": "puneethrayalacheruvu09@gmail.com",
+        "slip_number": 94,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9553520654,
+        "name": "RAYALACHERUVU PUNEETH",
+        "app_number": "2025KARE05636"
+    },
+    {
+        "email": "metlayogeswar92@gmail.com",
+        "slip_number": 95,
+        "Year": "I",
+        "Branch": "MEC",
+        "phonenumber": 6303456346,
+        "name": "Metla Yogeswar",
+        "app_number": "2025KARE07593"
+    },
+    {
+        "email": "duddukuntatharunkumarreddy@gmail.com",
+        "slip_number": 96,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 9652409554,
+        "name": "D Tharun kumar Reddy",
+        "app_number": "2025 KARE 06809"
+    },
+    {
+        "email": "charansaineeraj312008@gmail.com",
+        "slip_number": 97,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9000993331,
+        "name": "Charan Sai neeraj",
+        "app_number": "2025KARE02769"
+    },
+    {
+        "email": "chapalahemanthchinnikrishna@gmail.com",
+        "slip_number": 98,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8317681947,
+        "name": "CHAPALA. HEMANTH CHINNI KRISHNA",
+        "app_number": "2025KARE01345"
+    },
+    {
+        "email": "koushikkrishnav22@gmail.com",
+        "slip_number": 99,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8374536668,
+        "name": "Koushik",
+        "app_number": "2025KARE08042"
+    },
+    {
+        "email": "ja12chin47@gmail.com",
+        "slip_number": 99,
+        "Year": "I",
+        "Branch": "Cse( aids)",
+        "phonenumber": 7702245557,
+        "name": "C.Jhansi",
+        "app_number": "2025KARE05610"
+    },
+    {
+        "email": "tanmayasreemattaparti@gmail.com",
+        "slip_number": 100,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 7032245899,
+        "name": "M.Tanmaya sree",
+        "app_number": "2025KARE08250"
+    },
+    {
+        "email": "trinadhtadiboina11@gmail.com",
+        "slip_number": 101,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9398059368,
+        "name": "Trinadh tadiboina",
+        "app_number": "2025KARE04426"
+    },
+    {
+        "email": "jaswanthnaidu909@gmail.com",
+        "slip_number": 102,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7702240583,
+        "name": "K Jaswanth naidu",
+        "app_number": "2025KARE05526"
+    },
+    {
+        "email": "ashokkumarreddykonda435@gmail.com",
+        "slip_number": 103,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7569343350,
+        "name": "KONDA ASHOK KUMAR REDDY",
+        "app_number": "2025KARE02559"
+    },
+    {
+        "email": "moni135moni@gmail.com",
+        "slip_number": 104,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9345100533,
+        "name": "Monika V",
+        "app_number": "2025KARE08021"
+    },
+    {
+        "email": "ammunishaanu@gmail.com",
+        "slip_number": 106,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7010545275,
+        "name": "M Nitharsana",
+        "app_number": "2025KARE03368"
+    },
+    {
+        "email": "meganachiyar19@gmail.com",
+        "slip_number": 107,
+        "Year": "I",
+        "Branch": "Btech  biomedical engineering",
+        "phonenumber": 9344096996,
+        "name": "Megasri.s",
+        "app_number": "2025KARE08248"
+    },
+    {
+        "email": "madhumithasenthil0904@gmail.com",
+        "slip_number": 108,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7418302244,
+        "name": "S A MADHUMITHA",
+        "app_number": "2025KARE00309"
+    },
+    {
+        "email": "gakapatipraneeth@gmail.com",
+        "slip_number": 109,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8096538772,
+        "name": "Garakapati Praneeth",
+        "app_number": "2025KARE05143"
+    },
+    {
+        "email": "gunthapallisandeepreddy@gmail.com",
+        "slip_number": 110,
+        "Year": "I",
+        "Branch": "CSE(CS)",
+        "phonenumber": 6309455947,
+        "name": "G Sandeep reddy",
+        "app_number": "2025KARE07496"
+    },
+    {
+        "email": "kurubayugandarkuruba@gmail.com",
+        "slip_number": 111,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9346708319,
+        "name": "Kuruba yugandar",
+        "app_number": "2025KARE01424"
+    },
+    {
+        "email": "geethikabodanki2@gmail.com",
+        "slip_number": 112,
+        "Year": "I",
+        "Branch": "Bsc",
+        "phonenumber": 7995124979,
+        "name": "B.Geethika",
+        "app_number": "2025KARE00265"
+    },
+    {
+        "email": "yagneshreddyperneti2008@gmail.com",
+        "slip_number": 113,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7416167576,
+        "name": "P YAGNESH",
+        "app_number": "2025KARE06015"
+    },
+    {
+        "email": "srismaransaiy@gmail.com",
+        "slip_number": 114,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 7997120070,
+        "name": "Yellenki sri smaran sai",
+        "app_number": "2025KARE07337"
+    },
+    {
+        "email": "edigasahasra7@gmail.com",
+        "slip_number": 115,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8639205097,
+        "name": "E.Sahasra",
+        "app_number": "2025KARE07551"
+    },
+    {
+        "email": "madhumita32007@gmail.com",
+        "slip_number": 116,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 6304811517,
+        "name": "V. Madhumita",
+        "app_number": "2025KARE07250"
+    },
+    {
+        "email": "chagantipatinirmaladevi@gmail.com",
+        "slip_number": 117,
+        "Year": "I",
+        "Branch": "S",
+        "phonenumber": "Cse Aiml",
+        "name": "Kundeti yashaswini",
+        "app_number": "2025KARE03785"
+    },
+    {
+        "email": "vamsikrishnasaidara4@gmail.com",
+        "slip_number": 118,
+        "Year": "I",
+        "Branch": "CSE (AIML)",
+        "phonenumber": 8978058184,
+        "name": "Vamsi Krishna Sai Dara",
+        "app_number": "2025KARE04502"
+    },
+    {
+        "email": "p.narasimha018@gmail.com",
+        "slip_number": 119,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7997518220,
+        "name": "Lakshmi Narasimha",
+        "app_number": "2025KARE06846"
+    },
+    {
+        "email": "darlingsumanth854@gmail.com",
+        "slip_number": 120,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8639160845,
+        "name": "RODDA SUMANTH REDDY",
+        "app_number": "2025KARE06518"
+    },
+    {
+        "email": "sreeharsham99@gmail.com",
+        "slip_number": 121,
+        "Year": "I",
+        "Branch": "CSE AI&ML",
+        "phonenumber": 6302553293,
+        "name": "Mangala Sree Harsha",
+        "app_number": "2025KARE06485"
+    },
+    {
+        "email": "harsharachapalli2008@gmail.com",
+        "slip_number": 122,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8985750117,
+        "name": "Harshavardhan Reddy. R",
+        "app_number": "2025KARE05409"
+    },
+    {
+        "email": "imvaddevivek@gmail.com",
+        "slip_number": 123,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9573709363,
+        "name": "v.vivek",
+        "app_number": "2025KARE06847"
+    },
+    {
+        "email": "venkataramanayadagiri5@gmail.com",
+        "slip_number": 124,
+        "Year": "I",
+        "Branch": "Mechanical",
+        "phonenumber": 9573530568,
+        "name": "Y venkata ramana",
+        "app_number": "2025Kare06613"
+    },
+    {
+        "email": "tangellamohansai@gmail.com",
+        "slip_number": 125,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9392307626,
+        "name": "Mohan sai.T",
+        "app_number": "2025KARE05759"
+    },
+    {
+        "email": "parasapavankumar2008@gmail.com",
+        "slip_number": 126,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8374687494,
+        "name": "PAVAN KUMAR",
+        "app_number": "2025KARE07211"
+    },
+    {
+        "email": "naninani42173@gmail.com",
+        "slip_number": 127,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 9908104996,
+        "name": "k.yaswanth Balaji",
+        "app_number": "2025KARE02918"
+    },
+    {
+        "email": "akshaymoka001@gmail.com",
+        "slip_number": 128,
+        "Year": "I",
+        "Branch": "CSE(AIML)",
+        "phonenumber": 9381504324,
+        "name": "Akshay Kumar .M",
+        "app_number": "2025KARE07068"
+    },
+    {
+        "email": "fayazfayufayazfayu7@gmail.com",
+        "slip_number": 129,
+        "Year": "I",
+        "Branch": "Food technology",
+        "phonenumber": 9100913795,
+        "name": "Fayaz",
+        "app_number": "2025kare07350"
+    },
+    {
+        "email": "prajwalkorika5@gmail.com",
+        "slip_number": 130,
+        "Year": "I",
+        "Branch": "Aeronautical",
+        "phonenumber": 9704718879,
+        "name": "Prajwal Karise",
+        "app_number": "2025KARE02087"
+    },
+    {
+        "email": "kodinarasimhambjp1979@gmail.com",
+        "slip_number": 131,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 9533377119,
+        "name": "K Karthik Ram",
+        "app_number": "2025KARE03245"
+    },
+    {
+        "email": "dhamodarreddy369@gmail.com",
+        "slip_number": 132,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 7416166306,
+        "name": "Nerusupalli Dhamodar Reddy",
+        "app_number": "2025KARE07409"
+    },
+    {
+        "email": "pagolurohith13@gmail.com",
+        "slip_number": 133,
+        "Year": "I",
+        "Branch": "C.s.e",
+        "phonenumber": 9121955561,
+        "name": "P.venkata Rohith",
+        "app_number": "2025KARE04521"
+    },
+    {
+        "email": "shivavardhan246@gmail.com",
+        "slip_number": 134,
+        "Year": "I",
+        "Branch": "cse aiml",
+        "phonenumber": 6303982687,
+        "name": "Thatikonda shivavardhan",
+        "app_number": "2025KARE)!@!$"
+    },
+    {
+        "email": "lakshmannune57@gmail.com",
+        "slip_number": 135,
+        "Year": "I",
+        "Branch": "B Arch",
+        "phonenumber": 8019160384,
+        "name": "Nune lakshman",
+        "app_number": "2025KARE07276"
+    },
+    {
+        "email": "harikrishnasandi@gmail.com",
+        "slip_number": 136,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8179248292,
+        "name": "Sandi Hari krishna",
+        "app_number": "2025KARE07340"
+    },
+    {
+        "email": "poojithasandi646@gmail.com",
+        "slip_number": 137,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8186985766,
+        "name": "S.Poojitha",
+        "app_number": "2025KARE07342"
+    },
+    {
+        "email": "leelakarthikey269@gmail.com",
+        "slip_number": 138,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8121064273,
+        "name": "Leela karthikeya",
+        "app_number": "2025KARE06615"
+    },
+    {
+        "email": "chakrir650@gmail.com",
+        "slip_number": 139,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9154073476,
+        "name": "B.Chakradhar Reddy",
+        "app_number": "2025KARE06617"
+    },
+    {
+        "email": "sowmyaharshikayarramalla@gmail.com",
+        "slip_number": 140,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9346404443,
+        "name": "Sowmya Harshika",
+        "app_number": "2025KARE08030"
+    },
+    {
+        "email": "rishithasara143@gmail.com",
+        "slip_number": 141,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8309602271,
+        "name": "Vadaka Narendra",
+        "app_number": "2025KARE00946"
+    },
+    {
+        "email": "sanjeevgopu205@gmail.com",
+        "slip_number": 142,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 9642551994,
+        "name": "Gopu sanjeeva kumar",
+        "app_number": "2025KARE00626"
+    },
+    {
+        "email": "pongurivenkatasubbaiah123@gmail.com",
+        "slip_number": 143,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 6300459099,
+        "name": "PONGURI VENKATA SUBBAIAH",
+        "app_number": "2025KARE06520"
+    },
+    {
+        "email": "sreenathvutukuru2007@gmail.com",
+        "slip_number": 144,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8309954520,
+        "name": "V Sreenath Reddy",
+        "app_number": "2025KARA06412"
+    },
+    {
+        "email": "geethaboddapati@gmail.com",
+        "slip_number": 145,
+        "Year": "I",
+        "Branch": "Cse (Ai & ds)",
+        "phonenumber": "78932 22155",
+        "name": "Boddapati Geetha Hasini",
+        "app_number": "2025KARE06246"
+    },
+    {
+        "email": "nagendharnuthakki9@gmail.com",
+        "slip_number": 146,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 7095152450,
+        "name": "Nagendhar nuthaki",
+        "app_number": "2025KARE03359"
+    },
+    {
+        "email": "jashwanth.mangam0369@gmail.com",
+        "slip_number": 147,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8520012205,
+        "name": "M.Jashwanth",
+        "app_number": "2025KARE06339"
+    },
+    {
+        "email": "mendagowtham7@gmail.com",
+        "slip_number": 148,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 8639894523,
+        "name": "Menda.gowtham",
+        "app_number": "2025KARE07885"
+    },
+    {
+        "email": "rajesh11778383@gmail.com",
+        "slip_number": 149,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8897789761,
+        "name": "Y. Rajesh",
+        "app_number": "2025KARE08814"
+    },
+    {
+        "email": "chowdharygnandev@gmail.com",
+        "slip_number": 150,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 8143641392,
+        "name": "Gnandev  Chowdhary",
+        "app_number": "2025KARE05194"
+    },
+    {
+        "email": "suryalela873@gmail.com",
+        "slip_number": 151,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9866861248,
+        "name": "K.leela venkata siva surya",
+        "app_number": "2025kare05799"
+    },
+    {
+        "email": "harshavardhanr54@gmail.com",
+        "slip_number": 152,
+        "Year": "I",
+        "Branch": "CSE ai ml",
+        "phonenumber": 7702691977,
+        "name": "Harsha Vardhan Reddy",
+        "app_number": "2025kare05649"
+    },
+    {
+        "email": "rcskyfall064@gmail.com",
+        "slip_number": 153,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9502263780,
+        "name": "Ramcharan chele",
+        "app_number": "2025KARE07437"
+    },
+    {
+        "email": "uppalurusomeswarreddy@gmail.com",
+        "slip_number": 154,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8328420540,
+        "name": "UPPALURU SOMESWAR REDDY",
+        "app_number": "2025KARE06465"
+    },
+    {
+        "email": "ganapalokesh54@gmail.com",
+        "slip_number": 155,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8074744198,
+        "name": "G.Deepika",
+        "app_number": "2025KARE05853"
+    },
+    {
+        "email": "himapujareddyalavalapati@gmail.com",
+        "slip_number": 156,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9490326235,
+        "name": "ALAVALAPATI HIMA PUJA",
+        "app_number": "2025KARE01519"
+    },
+    {
+        "email": "mythrireddy980@gmail.com",
+        "slip_number": 157,
+        "Year": "I",
+        "Branch": "UT",
+        "phonenumber": 9392125879,
+        "name": "Saginala mythri reddy",
+        "app_number": "2025KARE06342"
+    },
+    {
+        "email": "ganeshkatta2007@gmail.com",
+        "slip_number": 158,
+        "Year": "I",
+        "Branch": "CSE(AIML)",
+        "phonenumber": 9030476189,
+        "name": "Katta.Ganesh",
+        "app_number": "2025KARE04988"
+    },
+    {
+        "email": "harshavardhan33h@gmail.com",
+        "slip_number": 160,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9398678868,
+        "name": "T Harsha",
+        "app_number": "2025 KARE 07672"
+    },
+    {
+        "email": "itsrishiraj2006@gmail.com",
+        "slip_number": 161,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8409380903,
+        "name": "Rishi Raj",
+        "app_number": "2025KARE05643"
+    },
+    {
+        "email": "sushant24689@gmail.com",
+        "slip_number": 162,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9801452622,
+        "name": "Sushant pandey",
+        "app_number": "2025KARE04574"
+    },
+    {
+        "email": "mukthapuramirfan@gmail.com",
+        "slip_number": 163,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7993932275,
+        "name": "M.Irfan",
+        "app_number": "2025KARE06502"
+    },
+    {
+        "email": "chidipudipraveenkumarreddy@gmail.com",
+        "slip_number": 164,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9347701861,
+        "name": "Praveen kumar reddy",
+        "app_number": "2025kare06162"
+    },
+    {
+        "email": "malagondlamahendra201@gmail.com",
+        "slip_number": 165,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 6305847874,
+        "name": "M.Mahendra",
+        "app_number": "2025KARE06236"
+    },
+    {
+        "email": "ravuri.charan.s.134@kalvium.community",
+        "slip_number": 166,
+        "Year": "I",
+        "Branch": "CSE (kalvium)",
+        "phonenumber": 7386157725,
+        "name": "R.charanteja",
+        "app_number": "2025KARE08076"
+    },
+    {
+        "email": "suswanthbandi11@gmail.com",
+        "slip_number": 167,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8978237921,
+        "name": "B suswanth",
+        "app_number": "2025KARE04735"
+    },
+    {
+        "email": "mahegamer93@gmail.com",
+        "slip_number": 168,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7032310296,
+        "name": "P.Venkata maheswara Reddy",
+        "app_number": "2025KARE05468"
+    },
+    {
+        "email": "bathalamanoj41@gmail.com",
+        "slip_number": 169,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9550936377,
+        "name": "B.Manoj",
+        "app_number": "2025KARE06780"
+    },
+    {
+        "email": "madhurijureddy@gmail.com",
+        "slip_number": 170,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7780375575,
+        "name": "J.Madhuri",
+        "app_number": "2025KARE04323"
+    },
+    {
+        "email": "middechakri777@gmail.com",
+        "slip_number": 171,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7095910777,
+        "name": "M.chakradhar",
+        "app_number": "2025KARE01933"
+    },
+    {
+        "email": "vardhanreddy7076@gmail.com",
+        "slip_number": 172,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7013127970,
+        "name": "M.Guru Vardhan Reddy",
+        "app_number": "2025KARE05752"
+    },
+    {
+        "email": "babluvishnutej@gmail.com",
+        "slip_number": 173,
+        "Year": "I",
+        "Branch": "CSE(AI&ML)",
+        "phonenumber": 8374407360,
+        "name": "MALLELA VISHNU TEJ",
+        "app_number": "2025KARE02424"
+    },
+    {
+        "email": "rajasekharpanchangam2000@gmail.com",
+        "slip_number": 174,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9063717832,
+        "name": "Sainihar",
+        "app_number": "2025KARE06946"
+    },
+    {
+        "email": "sufiyanahmad2408@gmail.com",
+        "slip_number": 175,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7013133940,
+        "name": "Shaik sufiyan ahmad",
+        "app_number": "2025KARE01985"
+    },
+    {
+        "email": "arshadarshu0978@gmail.com",
+        "slip_number": 176,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 7013980404,
+        "name": "Mohammed Arshad",
+        "app_number": "2025KARE01982"
+    },
+    {
+        "email": "rushindharreddy397@gmail.com",
+        "slip_number": 177,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9391917174,
+        "name": "K.Rushindharreddy",
+        "app_number": "2025KARE05981"
+    },
+    {
+        "email": "rananaga9@gmail.com",
+        "slip_number": 178,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9966150565,
+        "name": "S.PRATHAP REDDY",
+        "app_number": "2025KARE05977"
+    },
+    {
+        "email": "sanjaygurugurusanjay@gmail.com",
+        "slip_number": 179,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 7569842085,
+        "name": "Tavva sanjay reddy",
+        "app_number": "2026KARE06240"
+    },
+    {
+        "email": "ashokbille12@gmail.com",
+        "slip_number": 180,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7780516687,
+        "name": "B.Ashok",
+        "app_number": "2025KARE01154"
+    },
+    {
+        "email": "sathwikchowdhary08@gmail.com",
+        "slip_number": 181,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 6305669190,
+        "name": "Nalluri Sathwik Kumar",
+        "app_number": "2025KARE01550"
+    },
+    {
+        "email": "singamsettyhemanth0@gmail.com",
+        "slip_number": 182,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8978744137,
+        "name": "S Hemanth",
+        "app_number": "2025KARE07440"
+    },
+    {
+        "email": "spoorthisake556@gmail.com",
+        "slip_number": 183,
+        "Year": "I",
+        "Branch": "IT",
+        "phonenumber": 9381385982,
+        "name": "S.Spoorthi",
+        "app_number": "KARE202507318"
+    },
+    {
+        "email": "vengareddydharani@gmail.com",
+        "slip_number": 184,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7816070476,
+        "name": "V.Dharani",
+        "app_number": "2025KARE06363"
+    },
+    {
+        "email": "yadavakuntahimapragna152@gmail.com",
+        "slip_number": 185,
+        "Year": "I",
+        "Branch": "Cse(ai&ml)",
+        "phonenumber": 7013452232,
+        "name": "Y.Himapragna",
+        "app_number": "2025KARE06807"
+    },
+    {
+        "email": "mahaboodashaik1@gmail.com",
+        "slip_number": 186,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 6303357699,
+        "name": "S.mahabooda",
+        "app_number": "2025KARE02719"
+    },
+    {
+        "email": "ruksanashaik021@gmail.com",
+        "slip_number": 187,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9154197110,
+        "name": "Shaik Ruksana",
+        "app_number": "2025KARE06035"
+    },
+    {
+        "email": "kvenumadhavr@gmail.com",
+        "slip_number": 187,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8919339618,
+        "name": "k.venumadhav reddy",
+        "app_number": "2025KARE05847"
+    },
+    {
+        "email": "khushwantcommander@gmail.com",
+        "slip_number": 188,
+        "Year": "I",
+        "Branch": "Mechatronics",
+        "phonenumber": 9490815817,
+        "name": "Khushwant Samireddi",
+        "app_number": "2025KARE05414"
+    },
+    {
+        "email": "santhoshponugoti24@gmail.com",
+        "slip_number": 190,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 6281177912,
+        "name": "P santhosh",
+        "app_number": "2025KARE08037"
+    },
+    {
+        "email": "sreenusreenu6322@gmail.com",
+        "slip_number": 191,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 8688711265,
+        "name": "Jagadeesh",
+        "app_number": "2025Kare07573"
+    },
+    {
+        "email": "ny7147727@gmail.com",
+        "slip_number": 192,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9296301447,
+        "name": "Neha",
+        "app_number": "2025KARE06095"
+    },
+    {
+        "email": "muskansah641@gmail.com",
+        "slip_number": 193,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9508542315,
+        "name": "Muskan",
+        "app_number": "2025KARE04455"
+    },
+    {
+        "email": "kumaripreeti53482@gmail.com",
+        "slip_number": 194,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9060711309,
+        "name": "Priti Gandhi",
+        "app_number": "2025KARE05880"
+    },
+    {
+        "email": "gajulapallicharithareddy12@gmail.com",
+        "slip_number": 195,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9704225554,
+        "name": "G.Charitha",
+        "app_number": "2025KARE07515"
+    },
+    {
+        "email": "9922008098@klu.ac.in",
+        "slip_number": 196,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 6281319231,
+        "name": "G.Kusumanjali",
+        "app_number": "2025KARE06127"
+    },
+    {
+        "email": "pamarthijhansipriyadarshini@gmail.com",
+        "slip_number": 197,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 7660081388,
+        "name": "Jhansi priyadarshini",
+        "app_number": "2024KARE07170"
+    },
+    {
+        "email": "btssssss8745@gmail.com",
+        "slip_number": 198,
+        "Year": "I",
+        "Branch": "Btech cse",
+        "phonenumber": 9360458138,
+        "name": "Yazhini",
+        "app_number": "2025KARE06653"
+    },
+    {
+        "email": "sowmyasreebuchupalli@gmail.com",
+        "slip_number": 199,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8179391038,
+        "name": "B.Sowmya sree",
+        "app_number": "2025KARE07724"
+    },
+    {
+        "email": "carol.martinnadar@gmail.com",
+        "slip_number": 200,
+        "Year": "I",
+        "Branch": "Food technology",
+        "phonenumber": 8591068982,
+        "name": "Carol",
+        "app_number": 9925011013
+    },
+    {
+        "email": "gudamanoj2008@gmail.com",
+        "slip_number": 201,
+        "Year": "I",
+        "Branch": "CSE(AI&ML)",
+        "phonenumber": 9502847774,
+        "name": "G Manoj",
+        "app_number": "2025KARE07246"
+    },
+    {
+        "email": "iralahemanth18@gmail.com",
+        "slip_number": 202,
+        "Year": "I",
+        "Branch": "CSE(AI&ML)",
+        "phonenumber": 8463982154,
+        "name": "I Hemanth",
+        "app_number": "2025KARE08557"
+    },
+    {
+        "email": "lakshmikanthreddy212@gmail.com",
+        "slip_number": 203,
+        "Year": "I",
+        "Branch": "CSE(AI/ML)",
+        "phonenumber": 6300915755,
+        "name": "V lakshmikanthreddy",
+        "app_number": "2025KARE06397"
+    },
+    {
+        "email": "etikelarahulreddy18@gmail.com",
+        "slip_number": 204,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7981606773,
+        "name": "Etikela Rahul Reddy",
+        "app_number": "2025KARE06411"
+    },
+    {
+        "email": "khayumabdul533@gmail.com",
+        "slip_number": 205,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9182856054,
+        "name": "Khayum abdul",
+        "app_number": "2025KARE06633"
+    },
+    {
+        "email": "surevenkatakarthik@gmail.com",
+        "slip_number": 206,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 9963236709,
+        "name": "S.Venkata Karthik",
+        "app_number": "2025KARE05471"
+    },
+    {
+        "email": "derangulajagadeeshjagadeesh@gmail.com",
+        "slip_number": 207,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 7815904854,
+        "name": "D Jagadeesh",
+        "app_number": "2025KARE07051"
+    },
+    {
+        "email": "rdxloverreddy@gmail.com",
+        "slip_number": 208,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7981606773,
+        "name": "Etikela Rahul Reddy",
+        "app_number": "2025KARE06411"
+    },
+    {
+        "email": "hemasagaryadav385@gmail.com",
+        "slip_number": 209,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8121329039,
+        "name": "Sumanth",
+        "app_number": "2025KARE07721"
+    },
+    {
+        "email": "y.jaswanthreddy1234@gmail.com",
+        "slip_number": 210,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9618995405,
+        "name": "Y.Jaswanth Reddy",
+        "app_number": "2025KARE06638"
+    },
+    {
+        "email": "bhargavpasam132@gmail.com",
+        "slip_number": 211,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 8919633299,
+        "name": "Bhargav",
+        "app_number": "2025KARE07335"
+    },
+    {
+        "email": "vishnuvemula94@gmail.com",
+        "slip_number": 212,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7997902508,
+        "name": "Vemula Vishnu vardhan",
+        "app_number": "2025KARE07278"
+    },
+    {
+        "email": "6360rakesh@gmail.com",
+        "slip_number": 213,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7674070178,
+        "name": "V Rakesh",
+        "app_number": "2025KARE07591"
+    },
+    {
+        "email": "venkyyadavvenkatesh82@gmail.com",
+        "slip_number": 214,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 8106157296,
+        "name": "R venkatesh",
+        "app_number": "2025kARE06237"
+    },
+    {
+        "email": "khayumsheikh999@gmail.com",
+        "slip_number": 215,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9182856054,
+        "name": "Abdul khayum",
+        "app_number": "2025KARE06633"
+    },
+    {
+        "email": "juturuvamsi101@gmail.com",
+        "slip_number": 216,
+        "Year": "I",
+        "Branch": "CsE",
+        "phonenumber": 9381864995,
+        "name": "J vamsi",
+        "app_number": "Vamsi"
+    },
+    {
+        "email": "vanarchlakshmikanth2@gmail.com",
+        "slip_number": 217,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8555085749,
+        "name": "Vanarch Lakshmi kanth",
+        "app_number": "2025KARE07839"
+    },
+    {
+        "email": "v.p.meghana07@gmail.com",
+        "slip_number": 218,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9652517269,
+        "name": "V.P.Meghana",
+        "app_number": "2025KARE02085"
+    },
+    {
+        "email": "pathakuntajayachandrareddy@gmail.com",
+        "slip_number": 219,
+        "Year": "I",
+        "Branch": "Cse(ai&ml)",
+        "phonenumber": 9121617645,
+        "name": "0. Jayachandra reddy",
+        "app_number": "2025kARE03480"
+    },
+    {
+        "email": "dbhavyareddy1518@gmail.com",
+        "slip_number": 220,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 6304384704,
+        "name": "D.Bhavya",
+        "app_number": "2025KARE05411"
+    },
+    {
+        "email": "chaithanyareddypothula@gmail.com",
+        "slip_number": 221,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9381226108,
+        "name": "P chaithanya",
+        "app_number": "2025KARE05411"
+    },
+    {
+        "email": "aragondaanoop2@gmail.com",
+        "slip_number": 222,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8341031553,
+        "name": "A Anoop",
+        "app_number": "2025KARE05808"
+    },
+    {
+        "email": "mohithreddymarrivada@gmail.com",
+        "slip_number": 223,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 6305783201,
+        "name": "M Mohith",
+        "app_number": "2025KARE05782"
+    },
+    {
+        "email": "palasaisiva@gmail.com",
+        "slip_number": 224,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 6303905153,
+        "name": "P. Sai Siva nagendra reddy",
+        "app_number": "2025KARE04377"
+    },
+    {
+        "email": "yaswanthpollisetty17@gmail.com",
+        "slip_number": 225,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9493643739,
+        "name": "P. Yaswanth phani kumar",
+        "app_number": "2025KARE05672"
+    },
+    {
+        "email": "rasinenichaitanyanaidu@gmail.com",
+        "slip_number": 226,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9346096991,
+        "name": "R.Chaitanya Kumar",
+        "app_number": "2025KARE05985"
+    },
+    {
+        "email": "rahulpulapa350@gmail.com",
+        "slip_number": 227,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7330885557,
+        "name": "R.rahul",
+        "app_number": "2025kARE05894"
+    },
+    {
+        "email": "akshaypallapothu2007@gmail.com",
+        "slip_number": 228,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 6309047076,
+        "name": "Akshay",
+        "app_number": "2025KARE07321"
+    },
+    {
+        "email": "gajularagahavendra@gmail.com",
+        "slip_number": 230,
+        "Year": "I",
+        "Branch": "IT",
+        "phonenumber": 7671021188,
+        "name": "G.Raghavendra Rao",
+        "app_number": "2025KARE05034"
+    },
+    {
+        "email": "venkey152728@gmail.com",
+        "slip_number": 231,
+        "Year": "I",
+        "Branch": "mec",
+        "phonenumber": 6304380090,
+        "name": "Gadapu venkatesh",
+        "app_number": "202KARE07215"
+    },
+    {
+        "email": "gowdharshith071@gmail.com",
+        "slip_number": 232,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9515443015,
+        "name": "E Harshith Gowd",
+        "app_number": "2025KARE04356"
+    },
+    {
+        "email": "jashwanthreddygaddam700@gmail.com",
+        "slip_number": 233,
+        "Year": "I",
+        "Branch": "Cse ai ml",
+        "phonenumber": 7036749059,
+        "name": "G.Jaswanth Reddy",
+        "app_number": "2025Kare01351"
+    },
+    {
+        "email": "jr4899885@gmail.com",
+        "slip_number": 234,
+        "Year": "I",
+        "Branch": "Cse ai ml",
+        "phonenumber": 9121593483,
+        "name": "G Jaswanth Reddy",
+        "app_number": "2025Kare07185"
+    },
+    {
+        "email": "charanchinnu1822@gmail.com",
+        "slip_number": 235,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8309602528,
+        "name": "Chinta Charan Tej",
+        "app_number": "2025KARE04940"
+    },
+    {
+        "email": "shaikimran1408@gmail.com",
+        "slip_number": 236,
+        "Year": "I",
+        "Branch": "CSE AI and ml",
+        "phonenumber": 7093916376,
+        "name": "Shaik imran",
+        "app_number": "2025KARE06409"
+    },
+    {
+        "email": "battinichaithanya2@gmail.com",
+        "slip_number": 237,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9440910212,
+        "name": "G pradeed",
+        "app_number": "2025KARE03340"
+    },
+    {
+        "email": "gollapradeep2211@gmail.com",
+        "slip_number": 237,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9440910212,
+        "name": "G.pradeep",
+        "app_number": 99250040235
+    },
+    {
+        "email": "gaddamakshara18@gmail.com",
+        "slip_number": 238,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 7093983574,
+        "name": "Gaddam akshara",
+        "app_number": "2025kARE04509"
+    },
+    {
+        "email": "chinthalab228@gmail.com",
+        "slip_number": 239,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7286867888,
+        "name": "Chinathala balaji",
+        "app_number": "2025KARE06654"
+    },
+    {
+        "email": "pattapudurgarao366@gmail.com",
+        "slip_number": 240,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9346135794,
+        "name": "Pattapu dorababu",
+        "app_number": "2025KARE07302"
+    },
+    {
+        "email": "manyamsrinu40@gmail.com",
+        "slip_number": 241,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 7032438656,
+        "name": "MANYAM TIRUMALA SRINIVAS",
+        "app_number": "2025KARE07404"
+    },
+    {
+        "email": "akashalam539@gmail.com",
+        "slip_number": 242,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 8247693006,
+        "name": "A akash",
+        "app_number": "2025KARE06648"
+    },
+    {
+        "email": "chaitanyanareshborra@gmail.com",
+        "slip_number": 243,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 8688973965,
+        "name": "B.chaitanya naresh",
+        "app_number": "2025KARE06649"
+    },
+    {
+        "email": "chamanthulacharan630@gmail.com",
+        "slip_number": 244,
+        "Year": "I",
+        "Branch": "Mechanical",
+        "phonenumber": 6309059412,
+        "name": "Chamanthula Sri charan pardha saradi",
+        "app_number": "2025KARE01676"
+    },
+    {
+        "email": "yarraballivasishtareddy123@gmail.com",
+        "slip_number": 245,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9182266839,
+        "name": "Y.vasishta Reddy",
+        "app_number": "2025KARE06220"
+    },
+    {
+        "email": "hawpi87@gmail.com",
+        "slip_number": 246,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7989429905,
+        "name": "SD Moin",
+        "app_number": "2025KARE00835"
+    },
+    {
+        "email": "kaushiksunny2308@gmail.com",
+        "slip_number": 247,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 7382990048,
+        "name": "K.R.Durgaa kaushik",
+        "app_number": "2025KARE02311"
+    },
+    {
+        "email": "aharicharan08@gmail.com",
+        "slip_number": 248,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 8639655317,
+        "name": "A.hari charan",
+        "app_number": "2025KARE05698"
+    },
+    {
+        "email": "cherrybeeda9392@gmail.com",
+        "slip_number": 249,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9390545262,
+        "name": "B Sai Charan karthik",
+        "app_number": "2025KARE06494"
+    },
+    {
+        "email": "aug26kishore27@gmail.com",
+        "slip_number": 250,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8333013053,
+        "name": "M.Jai Satya Kishore",
+        "app_number": "2025KARE07579"
+    },
+    {
+        "email": "palemgowthamkumarreddy9@gmail.com",
+        "slip_number": 251,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 6301011755,
+        "name": "PALEM GOWTHAM KUMAR REDDY",
+        "app_number": "2025KARE04726"
+    },
+    {
+        "email": "munis510529@gmail.com",
+        "slip_number": 252,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7093316473,
+        "name": "S.Muni Brahmeswar Reddy",
+        "app_number": "2025KARE06032"
+    },
+    {
+        "email": "bodapatibprathap@gmail.com",
+        "slip_number": 253,
+        "Year": "I",
+        "Branch": "CSE(AI&DS)",
+        "phonenumber": 6303358480,
+        "name": "B.prathap",
+        "app_number": 99250040117
+    },
+    {
+        "email": "pulimahendranathreddy@gmail.com",
+        "slip_number": 254,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8074474657,
+        "name": "P.mahendranath reddy",
+        "app_number": 99250040602
+    },
+    {
+        "email": "raavilokesh21@gmail.com",
+        "slip_number": 255,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 6281802155,
+        "name": "R lokesh",
+        "app_number": "2025KARE05478"
+    },
+    {
+        "email": "srinishreddyvavilla@gmail.com",
+        "slip_number": 256,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 6281806524,
+        "name": "V SRINISHREDDY",
+        "app_number": "2025KARE04464"
+    },
+    {
+        "email": "tmidhun825@gmail.com",
+        "slip_number": 257,
+        "Year": "I",
+        "Branch": "CSE aiml",
+        "phonenumber": 7815929294,
+        "name": "T.midhun",
+        "app_number": 99250040800
+    },
+    {
+        "email": "yadavmadhusai@gmail.com",
+        "slip_number": 258,
+        "Year": "I",
+        "Branch": "Ece",
+        "phonenumber": 9494109406,
+        "name": "Tejesh achari",
+        "app_number": "2025KARE06155"
+    },
+    {
+        "email": "umasrishankarpeenabothu@gmail.com",
+        "slip_number": 259,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9059205592,
+        "name": "P. Shnakar",
+        "app_number": "2025KARE07923"
+    },
+    {
+        "email": "santhoshsangu334@gmail.com",
+        "slip_number": 260,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8008360979,
+        "name": "S.V.S santhosh",
+        "app_number": "2025KARE02262"
+    },
+    {
+        "email": "reddymani19323@gmail.com",
+        "slip_number": 261,
+        "Year": "I",
+        "Branch": "CSE(AL/ML)",
+        "phonenumber": 9121735998,
+        "name": "T.manisankarreddy",
+        "app_number": "2025KARE06396"
+    },
+    {
+        "email": "mnishmitha39@gmail.com",
+        "slip_number": 262,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 7075469532,
+        "name": "M.C.Nishmitha",
+        "app_number": "2025KARE05623"
+    },
+    {
+        "email": "tavvavicky@gmail.com",
+        "slip_number": 263,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 6304643765,
+        "name": "T VIKRAM REDDY",
+        "app_number": 9925005169
+    },
+    {
+        "email": "srimahanthkinnera@gmail.com",
+        "slip_number": 264,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 6303000781,
+        "name": "K SRI MAHANTH",
+        "app_number": 9925005041
+    },
+    {
+        "email": "iamchitrabanu@gmail.com",
+        "slip_number": 265,
+        "Year": "I",
+        "Branch": "Biotechnology",
+        "phonenumber": 6381159906,
+        "name": "M.Chitra Banu",
+        "app_number": 9925001012
+    },
+    {
+        "email": "yellanurnaveen36@gmail.com",
+        "slip_number": 266,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 9182681658,
+        "name": "Y.Naveen",
+        "app_number": "2025KARE04717"
+    },
+    {
+        "email": "tejaswaroopreddy.jk@gmail.com",
+        "slip_number": 267,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9347918028,
+        "name": "TEJA SWAROOP REDDY.J",
+        "app_number": "2025KARE08404"
+    },
+    {
+        "email": "sukeshkonduru96@gmail.com",
+        "slip_number": 268,
+        "Year": "I",
+        "Branch": "CSE(AI&ML)",
+        "phonenumber": 9908915859,
+        "name": "K.sukesh",
+        "app_number": "2025KARE01338"
+    },
+    {
+        "email": "anwarklu26@gmail.com",
+        "slip_number": 269,
+        "Year": "I",
+        "Branch": "CSE(AI&ML)",
+        "phonenumber": 9121651862,
+        "name": "K.Anwar",
+        "app_number": "2025KARE05185"
+    },
+    {
+        "email": "ayushweb0108@gmail.com",
+        "slip_number": 270,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7004312624,
+        "name": "Ayush Kumar Satyam",
+        "app_number": "2025KARE07397"
+    },
+    {
+        "email": "lakshaybhomia02@gmail.com",
+        "slip_number": 271,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7300363505,
+        "name": "LAKSHAY BHOMIA",
+        "app_number": "2025KARE04332"
+    },
+    {
+        "email": "shakilabanukammuru@gmail.com",
+        "slip_number": 273,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9959680710,
+        "name": "Kammuru Mohammad Rehan",
+        "app_number": "2025KARE06987"
+    },
+    {
+        "email": "nandayoga191@gmail.com",
+        "slip_number": 274,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 7842266045,
+        "name": "k.yogananada reddy",
+        "app_number": "2025KARE05067"
+    },
+    {
+        "email": "kambampranay@gmail.com",
+        "slip_number": 275,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7702519493,
+        "name": "Pranay kumar reddy",
+        "app_number": "2025KARE07376"
+    },
+    {
+        "email": "santhusanthosh4575@gmail.com",
+        "slip_number": 276,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 9346612030,
+        "name": "U SANTHOSH",
+        "app_number": 9925005172
+    },
+    {
+        "email": "yogeshballa7@gmail.com",
+        "slip_number": 277,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 7672032905,
+        "name": "Yogeshwar. B",
+        "app_number": "2025KARE06555"
+    },
+    {
+        "email": "botlavenky84@gmail.com",
+        "slip_number": 278,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9390073406,
+        "name": "B.venkatesh",
+        "app_number": "2025KARE06173"
+    },
+    {
+        "email": "lakkireddyaravindreddy07@gmail.com",
+        "slip_number": 279,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 6309377645,
+        "name": "Lakkireddy Aravind reddy",
+        "app_number": "2025KARE02842"
+    },
+    {
+        "email": "arjunreddy02062006@gmail.com",
+        "slip_number": 280,
+        "Year": "I",
+        "Branch": "CIVIL",
+        "phonenumber": 9989904485,
+        "name": "K. AMARNATH REDDY",
+        "app_number": 9925003004
+    },
+    {
+        "email": "ksubhashini927@gmail.com",
+        "slip_number": 281,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9642335948,
+        "name": "Kodidela Haindavi",
+        "app_number": "2025KARE06904"
+    },
+    {
+        "email": "pavaniarikala23@gmail.com",
+        "slip_number": 282,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9441600718,
+        "name": "ARIKALA PAVANI",
+        "app_number": "2025KARE06512"
+    },
+    {
+        "email": "saiharsha2512@gmail.com",
+        "slip_number": 285,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9154091839,
+        "name": "P.Sai Harsha Vardhan",
+        "app_number": "2025KARE06536"
+    },
+    {
+        "email": "chede.kumar.s.134@kalvium.community",
+        "slip_number": 286,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9398200616,
+        "name": "Chede Naga Sravan kumar",
+        "app_number": "2025KARE06583"
+    },
+    {
+        "email": "vippalamuralikrishna492@gmail.com",
+        "slip_number": 287,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9963298931,
+        "name": "v.murali krishna",
+        "app_number": 99250040623
+    },
+    {
+        "email": "gattumanoj4862@gmail.com",
+        "slip_number": 288,
+        "Year": "I",
+        "Branch": "CSE(AIML)",
+        "phonenumber": 7989179307,
+        "name": "G.Manoj Kumar",
+        "app_number": 99250040261
+    },
+    {
+        "email": "gunjasrinu261@gmail.com",
+        "slip_number": 289,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9121139590,
+        "name": "G.srinivasarao",
+        "app_number": 99250040268
+    },
+    {
+        "email": "deepakhatake28@gmail.com",
+        "slip_number": 290,
+        "Year": "I",
+        "Branch": "CSE(ai&ml)",
+        "phonenumber": 9347211678,
+        "name": "P.Lakshmi Deepak",
+        "app_number": 99250040511
+    },
+    {
+        "email": "harsha8122006@gmail.com",
+        "slip_number": 291,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9492594919,
+        "name": "Battula Harsha Vardhan",
+        "app_number": "2025KARE06303"
+    },
+    {
+        "email": "srishanth2509@gmail.com",
+        "slip_number": 292,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 7416922977,
+        "name": "R Srishanth",
+        "app_number": 99250040404
+    },
+    {
+        "email": "manjukiran532@gmail.com",
+        "slip_number": 293,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9676725550,
+        "name": "M.yoga kiran",
+        "app_number": "2025KARE02256"
+    },
+    {
+        "email": "bharathradha831@gmail.com",
+        "slip_number": 294,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9347388025,
+        "name": "K BHARATH",
+        "app_number": "2025KARE03059"
+    },
+    {
+        "email": "ninjaits200@gmail.com",
+        "slip_number": 295,
+        "Year": "I",
+        "Branch": "CSE-AIML",
+        "phonenumber": 6363477138,
+        "name": "Surendra",
+        "app_number": "2025KARE06540"
+    },
+    {
+        "email": "charankumar8971465224@gmail.com",
+        "slip_number": 296,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 6361009823,
+        "name": "R. CHARAN KUMAR REDDY",
+        "app_number": 99250040144
+    },
+    {
+        "email": "kcharansai2006@gmail.com",
+        "slip_number": 297,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8309383315,
+        "name": "K.charan sai",
+        "app_number": 99250040065
+    },
+    {
+        "email": "charankumarreddynussam@gmail.com",
+        "slip_number": 300,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 9866393985,
+        "name": "N.CHARAN KUMAR REDDY",
+        "app_number": "2025KARE05607"
+    },
+    {
+        "email": "sairajesh.chintalapudi@gmail.com",
+        "slip_number": 301,
+        "Year": "I",
+        "Branch": "Cse AiandDs",
+        "phonenumber": 9177319529,
+        "name": "Sai Rajesh",
+        "app_number": "2025KARE05840"
+    },
+    {
+        "email": "kanugovihrushikesh@gmail.com",
+        "slip_number": 302,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9666747104,
+        "name": "kanugovi hrushikesh",
+        "app_number": "2025KARE04495"
+    },
+    {
+        "email": "abhinavkumbham24@gmail.com",
+        "slip_number": 303,
+        "Year": "I",
+        "Branch": "cse",
+        "phonenumber": 7396858992,
+        "name": "abhinav goud.kumbham",
+        "app_number": "2025KARE07596"
+    },
+    {
+        "email": "chinnakotladeekshitha@gmail.com",
+        "slip_number": 304,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 6304153410,
+        "name": "C.Deekshitha sri",
+        "app_number": "2025KARE04848"
+    },
+    {
+        "email": "vasamsettiharshith@gmail.com",
+        "slip_number": 305,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9515004777,
+        "name": "V harshith (kittu)",
+        "app_number": "2025KARE07570"
+    },
+    {
+        "email": "udaykiranreddyveduru18@gmail.com",
+        "slip_number": 306,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9502378937,
+        "name": "Uday kiran reddy",
+        "app_number": "2025KARE04267"
+    },
+    {
+        "email": "gonuguntlakoushik29@gmail.com",
+        "slip_number": 307,
+        "Year": "I",
+        "Branch": "CSE / A08",
+        "phonenumber": 7093762982,
+        "name": "G Kowshik",
+        "app_number": "2025KARE05962"
+    },
+    {
+        "email": "nandanandakishor818@gmail.com",
+        "slip_number": 308,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9121019378,
+        "name": "B.Nanda kishor",
+        "app_number": "2025KARE08216"
+    },
+    {
+        "email": "nagarajudasari956@gmail.com",
+        "slip_number": 309,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 6281658296,
+        "name": "D.Nagaraju",
+        "app_number": "2025KARE05932"
+    },
+    {
+        "email": "balamsatish950@gmail.com",
+        "slip_number": 310,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8341412763,
+        "name": "B.venkata Sai satish",
+        "app_number": "2025KARE06560"
+    },
+    {
+        "email": "saipandurangayelugula@gmail.com",
+        "slip_number": 311,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9121170037,
+        "name": "Y . Sai pandu ranga",
+        "app_number": "2025KARE06557"
+    },
+    {
+        "email": "rajavenkataganeshm@gmail.com",
+        "slip_number": 312,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9908837877,
+        "name": "M.ganesh",
+        "app_number": "2025KARE06579"
+    },
+    {
+        "email": "mounikavanam2405@gmail.com",
+        "slip_number": 313,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 6300406742,
+        "name": "Mounika vanam",
+        "app_number": "2025KARE07240"
+    },
+    {
+        "email": "venkyy312@gmail.com",
+        "slip_number": 314,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 6301390665,
+        "name": "N.Madhu",
+        "app_number": "2025kare06666"
+    },
+    {
+        "email": "sowminandan19@gmail.com",
+        "slip_number": 315,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9133270169,
+        "name": "N.NANDAN",
+        "app_number": "2025KARE04351"
+    },
+    {
+        "email": "reddygarivikasreddy25@gmail.com",
+        "slip_number": 316,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 6300704233,
+        "name": "R Vikas Reddy",
+        "app_number": "2025KARE08692"
+    },
+    {
+        "email": "ryeshwanth395@gmail.com",
+        "slip_number": 317,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 6305157852,
+        "name": "R Yeshwanth Kumar Reddy",
+        "app_number": "2025KARE06602"
+    },
+    {
+        "email": "rajdaniel2006@gmail.com",
+        "slip_number": 318,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7794004991,
+        "name": "Daniel",
+        "app_number": "2025KARE07117"
+    },
+    {
+        "email": "viznuviznukiller@gmail.com",
+        "slip_number": 319,
+        "Year": "I",
+        "Branch": "Civil",
+        "phonenumber": 8438236211,
+        "name": "Vishnu",
+        "app_number": "2025KARE00869"
+    },
+    {
+        "email": "nayudorivarshitha@gmail.com",
+        "slip_number": 320,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 8520987543,
+        "name": "N.venkata sai Varshitha",
+        "app_number": "2025KARE06163"
+    },
+    {
+        "email": "pujithapotru4@gmail.com",
+        "slip_number": 321,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8309273949,
+        "name": "P.Pujitha",
+        "app_number": "2025KARE06845"
+    },
+    {
+        "email": "sashank4real@gmail.com",
+        "slip_number": 322,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9491957464,
+        "name": "P.SASHANK",
+        "app_number": "2025KARE06542"
+    },
+    {
+        "email": "nisharoyal31671@gmail.com",
+        "slip_number": 323,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8074265312,
+        "name": "Pasupuleti preethi nisha",
+        "app_number": "2025KARE07796"
+    },
+    {
+        "email": "vivekanandareddy6453@gmail.com",
+        "slip_number": 324,
+        "Year": "I",
+        "Branch": "Food technology",
+        "phonenumber": 9392601116,
+        "name": "M.Vivekananda Reddy",
+        "app_number": "2025KARE08324"
+    },
+    {
+        "email": "haunia8@gmail.com",
+        "slip_number": 325,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 6301700897,
+        "name": "R Eshwar",
+        "app_number": "2025KARE01570"
+    },
+    {
+        "email": "thekarthik84@gmail.com",
+        "slip_number": 326,
+        "Year": "I",
+        "Branch": "Ece",
+        "phonenumber": 6300703794,
+        "name": "B.karthik",
+        "app_number": "2025KARE06695"
+    },
+    {
+        "email": "shashidharroyal2006@gmail.com",
+        "slip_number": 327,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9989177403,
+        "name": "K shashidhar",
+        "app_number": "2025KARE06330"
+    },
+    {
+        "email": "someshrocky609@gmail.com",
+        "slip_number": 328,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7207185972,
+        "name": "MULA SOMESWAR REDDY",
+        "app_number": "2025KARE07602"
+    },
+    {
+        "email": "dollusumanth646@gmail.com",
+        "slip_number": 329,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 8919412642,
+        "name": "D.sumanth",
+        "app_number": "2025KARE07594"
+    },
+    {
+        "email": "saikummanamala22@gmail.com",
+        "slip_number": 330,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 6302502280,
+        "name": "K jayasai",
+        "app_number": "2025KARE05727"
+    },
+    {
+        "email": "rajcharan1845@gmail.com",
+        "slip_number": 331,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 7093974597,
+        "name": "Konduka Rajcharan",
+        "app_number": "2025KARE07767"
+    },
+    {
+        "email": "udaypraneethk2008@gmail.com",
+        "slip_number": 332,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8179470953,
+        "name": "Udaypraneeth",
+        "app_number": "2025KARE01101"
+    },
+    {
+        "email": "tejaswinijampala27@gmail.com",
+        "slip_number": 333,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9110764110,
+        "name": "Jampala Tejaswini",
+        "app_number": "2025KARE00107"
+    },
+    {
+        "email": "praneethpvk07@gmail.com",
+        "slip_number": 334,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9346060236,
+        "name": "Praneeth venkata kumar",
+        "app_number": "2025KARE07999"
+    },
+    {
+        "email": "tharunkuppuri@gmail.com",
+        "slip_number": 335,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 8341194556,
+        "name": "Tharun",
+        "app_number": "2025KARE04824"
+    },
+    {
+        "email": "gaddamvineelkumarreddy@gmail.com",
+        "slip_number": 336,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9652696603,
+        "name": "G Vineel Kumar Reddy",
+        "app_number": "2025KARE01159"
+    },
+    {
+        "email": "jspupendra0@gmail.com",
+        "slip_number": 337,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 9704151826,
+        "name": "K.upendar Rao",
+        "app_number": "2025KARE06604"
+    },
+    {
+        "email": "ashokkumarbommisetty25@gmail.com",
+        "slip_number": 338,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 9959318330,
+        "name": "Ashok Kumar",
+        "app_number": "2025KARE05828"
+    },
+    {
+        "email": "gaddamaravind987@gmail.com",
+        "slip_number": 339,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9959447931,
+        "name": "G Aravinda Reddy",
+        "app_number": "2025Kare05912"
+    },
+    {
+        "email": "purushotham33665@gmail.com",
+        "slip_number": 340,
+        "Year": "I",
+        "Branch": "Cse(ai&ml)",
+        "phonenumber": 7780234174,
+        "name": "P purushotham",
+        "app_number": "2025KARE06646"
+    },
+    {
+        "email": "kabhishekkolluri@gmail.com",
+        "slip_number": 341,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9618489410,
+        "name": "Kolluri Abhishek",
+        "app_number": "2025KARE07165"
+    },
+    {
+        "email": "gollaashok831@gmail.com",
+        "slip_number": 342,
+        "Year": "I",
+        "Branch": "CSE AIML",
+        "phonenumber": 9390722878,
+        "name": "G.Ashok",
+        "app_number": "2025KARE00445"
+    },
+    {
+        "email": "anageshroyal3366@gmail.com",
+        "slip_number": 343,
+        "Year": "I",
+        "Branch": "CSE AI&ML",
+        "phonenumber": 9182709113,
+        "name": "A. NAGESWAR",
+        "app_number": "2025KARE03772"
+    },
+    {
+        "email": "dheerajkumarreddy6@gmail.com",
+        "slip_number": 344,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 8309671814,
+        "name": "B.Dheeraj kumar reddy",
+        "app_number": "2025KARE01700"
+    },
+    {
+        "email": "bharinathreddy001@gmail.com",
+        "slip_number": 345,
+        "Year": "I",
+        "Branch": "Mechanical",
+        "phonenumber": 7093965095,
+        "name": "B hari nath reddy",
+        "app_number": "2025KARE06865"
+    },
+    {
+        "email": "balakondamanojkumar@gmail.com",
+        "slip_number": 346,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9154083237,
+        "name": "Kuruba Manoj Kumar",
+        "app_number": "2025KARE06249"
+    },
+    {
+        "email": "nandhakishorechowdary873@gmail.com",
+        "slip_number": 347,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 9618501067,
+        "name": "T nandha kishore",
+        "app_number": "2025Kare@06136"
+    },
+    {
+        "email": "kankanampaticharan@gmail.com",
+        "slip_number": 348,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7093837280,
+        "name": "K.Giri Venkat Charan Teja",
+        "app_number": "2025KARE05793"
+    },
+    {
+        "email": "mokshagnavatti8@gmail.com",
+        "slip_number": 349,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9059461547,
+        "name": "V mokshagna",
+        "app_number": "2025KARE05009"
+    },
+    {
+        "email": "g.ramanandasagar8899@gmail.com",
+        "slip_number": 350,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9182439879,
+        "name": "GADDAM RAMANANDA SAGAR REDDY",
+        "app_number": "2025KARE05094"
+    },
+    {
+        "email": "jonnalagaddamokshith@gmail.com",
+        "slip_number": 351,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8374173842,
+        "name": "J.Mokshith",
+        "app_number": "2025KARE05178"
+    },
+    {
+        "email": "sahithipabbathi2711@gmail.com",
+        "slip_number": 352,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 6309056166,
+        "name": "P.gnana sahithi",
+        "app_number": "2025KARE02689"
+    },
+    {
+        "email": "g.pujitha2914@gmail.com",
+        "slip_number": 353,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7287932896,
+        "name": "Gundeboyina.pujitha",
+        "app_number": "2025KARE03302"
+    },
+    {
+        "email": "himajajalla@gmail.com",
+        "slip_number": 354,
+        "Year": "I",
+        "Branch": "CSE AIML",
+        "phonenumber": 8179548188,
+        "name": "Jalla Himaja",
+        "app_number": "2025kARE07046"
+    },
+    {
+        "email": "sivalakshmil387@gmail.com",
+        "slip_number": 355,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7995500841,
+        "name": "Lakkireddy sivalakshmi",
+        "app_number": "2025KARE06586"
+    },
+    {
+        "email": "serichaaru@gmail.com",
+        "slip_number": 356,
+        "Year": "I",
+        "Branch": "CSE aiml",
+        "phonenumber": 9110519991,
+        "name": "Aakula sharanya",
+        "app_number": "2025KARE07245"
+    },
+    {
+        "email": "sriramkondepati221@gmail.com",
+        "slip_number": 357,
+        "Year": "I",
+        "Branch": "CSE-AIML",
+        "phonenumber": 7780119411,
+        "name": "Kondepati sriram",
+        "app_number": "2025KARE07925"
+    },
+    {
+        "email": "neerukondabhuvanesh@gmail.com",
+        "slip_number": 358,
+        "Year": "I",
+        "Branch": "Cse (aiml)",
+        "phonenumber": 9440471160,
+        "name": "N.bhuvanesh",
+        "app_number": "2025KARE05674"
+    },
+    {
+        "email": "sumanthreddycheluri@gmail.com",
+        "slip_number": 359,
+        "Year": "I",
+        "Branch": "CSE CYBERSECURITY",
+        "phonenumber": 7702471205,
+        "name": "C Sumanth Reddy",
+        "app_number": "2025KARE07130"
+    },
+    {
+        "email": "reddynandini7416@gmail.com",
+        "slip_number": 360,
+        "Year": "I",
+        "Branch": "CSE(AIML)",
+        "phonenumber": 7416762933,
+        "name": "K.Nandini",
+        "app_number": "2025KARE03223"
+    },
+    {
+        "email": "pavangpavankumarreddy@gmail.com",
+        "slip_number": 361,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7670931294,
+        "name": "G Pavan Kumar Reddy",
+        "app_number": 202508094
+    },
+    {
+        "email": "zineethsai@gmail.com",
+        "slip_number": 362,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8919491711,
+        "name": "D.sai zineeth reddy",
+        "app_number": "2025KARE07134"
+    },
+    {
+        "email": "harshithayadagiri4599@gmail.com",
+        "slip_number": 363,
+        "Year": "I",
+        "Branch": "CSE(aiml)",
+        "phonenumber": 8125414599,
+        "name": "Y harshitha",
+        "app_number": "2025kARE05976"
+    },
+    {
+        "email": "morateja1418@gmail.com",
+        "slip_number": 364,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9121393274,
+        "name": "M.Teja Manikanta",
+        "app_number": "2025KARE04231"
+    },
+    {
+        "email": "yerrasatwik77@gmail.com",
+        "slip_number": 365,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 6301991922,
+        "name": "Y .v. m. Satwik",
+        "app_number": "2025KARE05700"
+    },
+    {
+        "email": "darimisettyakshay@gmail.com",
+        "slip_number": 366,
+        "Year": "I",
+        "Branch": "Mech",
+        "phonenumber": 9346585374,
+        "name": "D akshay",
+        "app_number": "2025KARE06989"
+    },
+    {
+        "email": "deviavinashnaiduxg17@gmail.com",
+        "slip_number": 367,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7416059749,
+        "name": "Avinash naidu",
+        "app_number": "2025KARE07438"
+    },
+    {
+        "email": "nithinredddy15@gmail.com",
+        "slip_number": 370,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9030508889,
+        "name": "T.Nithin Kumar Reddy",
+        "app_number": "2025KARE05789"
+    },
+    {
+        "email": "nayabrasoolkovvuru@gmail.com",
+        "slip_number": 371,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9392008506,
+        "name": "K.Nayab rasool",
+        "app_number": "2025KARE06247"
+    },
+    {
+        "email": "tejeshachari196@gmail.com",
+        "slip_number": 372,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9182310307,
+        "name": "O Santosh Reddy",
+        "app_number": "2025KARE07064"
+    },
+    {
+        "email": "yugeshkumar.b1610@gmail.com",
+        "slip_number": 373,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8885641857,
+        "name": "B Yugesh kumar",
+        "app_number": "2025KARE01734"
+    },
+    {
+        "email": "banuprasad0809@gmail.com",
+        "slip_number": 374,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9392729913,
+        "name": "K.Banuprasad",
+        "app_number": "2025KARE01634"
+    },
+    {
+        "email": "hemanthbalaka8@gmail.com",
+        "slip_number": 375,
+        "Year": "I",
+        "Branch": "Cse cybersecurity",
+        "phonenumber": 8639745988,
+        "name": "B.Hemanth",
+        "app_number": "2025KARE04346"
+    },
+    {
+        "email": "madhurimanagireddy@gmail.com",
+        "slip_number": 377,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9390363646,
+        "name": "Nagireddy Madhurima",
+        "app_number": "2025KARE07427"
+    },
+    {
+        "email": "kambampraneethareddy@gmail.com",
+        "slip_number": 378,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7396470397,
+        "name": "K.praneetha",
+        "app_number": "2025KARE06852"
+    },
+    {
+        "email": "keerthanareddyyallaturu@gmail.com",
+        "slip_number": 379,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8309596342,
+        "name": "Y. Keerthana Reddy",
+        "app_number": 99250040643
+    },
+    {
+        "email": "charan2606kp@gmail.com",
+        "slip_number": 381,
+        "Year": "I",
+        "Branch": "IT",
+        "phonenumber": 9176479115,
+        "name": "Charan tej",
+        "app_number": "2025KARE04392"
+    },
+    {
+        "email": "varshinne21@gmail.com",
+        "slip_number": 383,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 8618079972,
+        "name": "Varshini Madineni",
+        "app_number": "2025KARE04868"
+    },
+    {
+        "email": "anumuladineshreddy0@gmail.com",
+        "slip_number": 386,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8328456216,
+        "name": "A.Dinesh Reddy",
+        "app_number": "2025KARE05446"
+    },
+    {
+        "email": "anemamarnadh999@gmail.com",
+        "slip_number": 387,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9063162223,
+        "name": "Anem.Amarnadh",
+        "app_number": "2025KARE08439"
+    },
+    {
+        "email": "bhanuteja18k@gmail.com",
+        "slip_number": 388,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8143864016,
+        "name": "S.Bhanu Teja",
+        "app_number": "2025KARE04554"
+    },
+    {
+        "email": "hemanthreddynaidu@gmail.com",
+        "slip_number": 389,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9063215171,
+        "name": "Naidu Hemanth",
+        "app_number": "2025KARE01362"
+    },
+    {
+        "email": "mukeshreddy949@gmail.com",
+        "slip_number": 390,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 6305583136,
+        "name": "K Mukesh Reddy",
+        "app_number": "2025KARE08115"
+    },
+    {
+        "email": "adithyanaidugali9@gmail.com",
+        "slip_number": 391,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7674889929,
+        "name": "G Adithya Naidu",
+        "app_number": "2025KARE07869"
+    },
+    {
+        "email": "reddyvenkata731@gmail.com",
+        "slip_number": 392,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9154844940,
+        "name": "Mora venkata reddy",
+        "app_number": "2025KARE05655"
+    },
+    {
+        "email": "venkateswarar480@gmail.com",
+        "slip_number": 393,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9391041008,
+        "name": "Metttu Venkateswara Reddy",
+        "app_number": "2025KARE05671"
+    },
+    {
+        "email": "vishvishnu431@gmail.com",
+        "slip_number": 396,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8790634345,
+        "name": "G VISHNU",
+        "app_number": "2025KARE07805"
+    },
+    {
+        "email": "melpadivamsi@gmail.com",
+        "slip_number": 397,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9704079515,
+        "name": "Vamsi",
+        "app_number": "2025kare07960"
+    },
+    {
+        "email": "rayapureddyteja10@gmail.com",
+        "slip_number": 398,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7036289859,
+        "name": "Rayapureddy teja",
+        "app_number": "2025KARE06243"
+    },
+    {
+        "email": "yashw0189@gmail.com",
+        "slip_number": 400,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7013514246,
+        "name": "S yaswanth",
+        "app_number": "2025KARE06754"
+    },
+    {
+        "email": "narapareddysusmitha@gmail.com",
+        "slip_number": 401,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7013741181,
+        "name": "N.Susmitha",
+        "app_number": "2025KARE06165"
+    },
+    {
+        "email": "dillibabut53@gmail.com",
+        "slip_number": 402,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9182855393,
+        "name": "T Dilli Babu",
+        "app_number": "2025KARE06366"
+    },
+    {
+        "email": "hemanth921921@gmail.com",
+        "slip_number": 403,
+        "Year": "I",
+        "Branch": "Aeronautical",
+        "phonenumber": 8328385218,
+        "name": "Kuruba hemanth kumar",
+        "app_number": "2025KARE07687"
+    },
+    {
+        "email": "dongalaharish757@gmail.com",
+        "slip_number": 404,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9963379469,
+        "name": "D.Venkata harish reddy",
+        "app_number": "2025KARE05272"
+    },
+    {
+        "email": "navadeeppujari2007@gmail.com",
+        "slip_number": 405,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 7396007407,
+        "name": "P.Navadeep",
+        "app_number": "2025KARE07829"
+    },
+    {
+        "email": "malellavarunreddy4321@gmail.com",
+        "slip_number": 406,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 6301825409,
+        "name": "M varun reddy",
+        "app_number": "2025KARE05568"
+    },
+    {
+        "email": "ermiyababuganguls@gmail.com",
+        "slip_number": 410,
+        "Year": "I",
+        "Branch": "CSE- ai ml",
+        "phonenumber": 7671884761,
+        "name": "Ermiya Babu Gangula",
+        "app_number": "2025kare07357"
+    },
+    {
+        "email": "kovvurusrisanthvarma@gmail.com",
+        "slip_number": 411,
+        "Year": "I",
+        "Branch": "CSE ai&ml",
+        "phonenumber": 6302230473,
+        "name": "K.SRISANTH VARMA",
+        "app_number": "2025KARE05298"
+    },
+    {
+        "email": "ramuchandanala05@gmail.com",
+        "slip_number": 412,
+        "Year": "I",
+        "Branch": "Cse aiml",
+        "phonenumber": 6302974359,
+        "name": "Ch Ramu",
+        "app_number": "2025KARE05027"
+    },
+    {
+        "email": "kolliparatejesh007@gmail.com",
+        "slip_number": 413,
+        "Year": "I",
+        "Branch": "CSE AND CYBER SECURITY",
+        "phonenumber": 9392165879,
+        "name": "K.Tejesh Satya Sai mani Krishna",
+        "app_number": "2025KARE07853"
+    },
+    {
+        "email": "yasaswabrahmammuppalla@gmail.com",
+        "slip_number": 414,
+        "Year": "I",
+        "Branch": "CSE(AI&ML)",
+        "phonenumber": 9705969585,
+        "name": "Muppalla yasaswa Brahmam",
+        "app_number": "2025KARE01052"
+    },
+    {
+        "email": "nagaadithya6969@gmail.com",
+        "slip_number": 415,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 8074626030,
+        "name": "NAGA ADITHYA CH",
+        "app_number": "2025KARE01498"
+    },
+    {
+        "email": "tullurudharahashchowdary@gmail.com",
+        "slip_number": 416,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7032624840,
+        "name": "TULLURU DHARAHASH CHOWDARY",
+        "app_number": "2025KARE04039"
+    },
+    {
+        "email": "swaroopsai934@gmail.com",
+        "slip_number": 417,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9346601432,
+        "name": "K SAISWAROOP",
+        "app_number": "2025KARE04873"
+    },
+    {
+        "email": "soul1066969@gmail.com",
+        "slip_number": 418,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9618230560,
+        "name": "G.v.teja",
+        "app_number": "2025KARE04525"
+    },
+    {
+        "email": "rajeevgadde18@gmail.com",
+        "slip_number": 419,
+        "Year": "I",
+        "Branch": "It",
+        "phonenumber": 9550635546,
+        "name": "G rajeev karthik",
+        "app_number": "2025KARE06698"
+    },
+    {
+        "email": "vign1661@gmail.com",
+        "slip_number": 420,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9392182103,
+        "name": "P.Venkata vignesh",
+        "app_number": "2025KARE07033"
+    },
+    {
+        "email": "lohithc623@gmail.com",
+        "slip_number": 421,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 6281494994,
+        "name": "Lohith kumar reddy",
+        "app_number": "2025KARE03586"
+    },
+    {
+        "email": "tejachandrasubhashgottipatti@gmail.com",
+        "slip_number": 423,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": "74167 36719",
+        "name": "Tejachandrasubhash@gmail.com",
+        "app_number": "2015KARE07683"
+    },
+    {
+        "email": "divyasree6000@gmail.com",
+        "slip_number": 424,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9063237130,
+        "name": "D.Balaji kumar",
+        "app_number": "2025 KARE06908"
+    },
+    {
+        "email": "tanguturivenkatasailohith@gmail.com",
+        "slip_number": 425,
+        "Year": "I",
+        "Branch": "CSE AI/ML",
+        "phonenumber": 8985378330,
+        "name": "TANGUTURI VENKATA SAI LOHITH",
+        "app_number": 99250040796
+    },
+    {
+        "email": "thippaloorimahendrareddy@gmail.com",
+        "slip_number": 426,
+        "Year": "I",
+        "Branch": "CSE-AIML",
+        "phonenumber": 6301991793,
+        "name": "T.Mahendra Reddy",
+        "app_number": 99250040798
+    },
+    {
+        "email": "vyuvraj2007@gmail.com",
+        "slip_number": 427,
+        "Year": "I",
+        "Branch": "IT",
+        "phonenumber": 7075257162,
+        "name": "V Yuvraj",
+        "app_number": "2025KARE03843"
+    },
+    {
+        "email": "tharunv1818@gmail.com",
+        "slip_number": 428,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9390259709,
+        "name": "V.Tharun",
+        "app_number": "2025KARE06450"
+    },
+    {
+        "email": "saip44111@gmail.com",
+        "slip_number": 429,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7032494676,
+        "name": "S.Raja Shekhar sai Praneeth",
+        "app_number": "2025KARE07465"
+    },
+    {
+        "email": "baluchenji4@gmail.com",
+        "slip_number": 430,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9346582069,
+        "name": "Balaji.c",
+        "app_number": 99250040136
+    },
+    {
+        "email": "pavangoudpavan8500@gmail.com",
+        "slip_number": 431,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9014272523,
+        "name": "E Pavan Kumar Goud",
+        "app_number": "2025KARE07831"
+    },
+    {
+        "email": "vanamnandankumar317@gmail.com",
+        "slip_number": 432,
+        "Year": "I",
+        "Branch": "Mechanical",
+        "phonenumber": 7780251910,
+        "name": "V.Nandankumar",
+        "app_number": "2025KARE07127"
+    },
+    {
+        "email": "veeranji3324@gmail.com",
+        "slip_number": 433,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9440534253,
+        "name": "Derangula veeranjaneyulu",
+        "app_number": "2025KARE00930"
+    },
+    {
+        "email": "vanamgreeshma07@gmail.com",
+        "slip_number": 434,
+        "Year": "I",
+        "Branch": "Cse AIML",
+        "phonenumber": 9959400692,
+        "name": "Vanam Greeshma",
+        "app_number": "2025KARE02451"
+    },
+    {
+        "email": "gaddev29@gmail.com",
+        "slip_number": 435,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7989720613,
+        "name": "G.Venkata manoj",
+        "app_number": "2025KARE06030"
+    },
+    {
+        "email": "aravindamarapuram@gmail.com",
+        "slip_number": 437,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7995187126,
+        "name": "Aravind",
+        "app_number": "2025KARE01616"
+    },
+    {
+        "email": "manivardhanyadav123@gmail.com",
+        "slip_number": 438,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 8247803186,
+        "name": "Mani vardhan",
+        "app_number": "2025KARE06836"
+    },
+    {
+        "email": "busettypranathi@gmail.com",
+        "slip_number": 439,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 6304940499,
+        "name": "B.Pranathi",
+        "app_number": "2025KARE05032"
+    },
+    {
+        "email": "boddulurinikhitha@gmail.com",
+        "slip_number": 440,
+        "Year": "I",
+        "Branch": "CSE ai&ml",
+        "phonenumber": 7981541776,
+        "name": "B.nikhitha",
+        "app_number": "2025KARE05933"
+    },
+    {
+        "email": "aluruganga43@gmail.com",
+        "slip_number": 441,
+        "Year": "I",
+        "Branch": "CSE cyber",
+        "phonenumber": 6302841987,
+        "name": "Aluru Ganga vigneswari",
+        "app_number": "2025KARE06329"
+    },
+    {
+        "email": "jjivireddinookaraju@gmail.com",
+        "slip_number": 443,
+        "Year": "I",
+        "Branch": "Cse Aiml",
+        "phonenumber": 9346241215,
+        "name": "J.durgamahesh",
+        "app_number": "2025KARE06026"
+    },
+    {
+        "email": "bmaheswarareddy2007@gmail.com",
+        "slip_number": 444,
+        "Year": "I",
+        "Branch": "Cse(alml)",
+        "phonenumber": 6303250385,
+        "name": "Bathula venkata sai maheswara reddy",
+        "app_number": "2025KARE07370"
+    },
+    {
+        "email": "naripeddivenugopal29@gmail.com",
+        "slip_number": 445,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7671907606,
+        "name": "N.Venu gopal",
+        "app_number": "2025KARE04089"
+    },
+    {
+        "email": "neerukondatatarao9@gmail.com",
+        "slip_number": 446,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 7075163040,
+        "name": "Yaswanth",
+        "app_number": "2025KARE01856"
+    },
+    {
+        "email": "saimahesh2856@gmail.com",
+        "slip_number": 447,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7032335340,
+        "name": "G.sai mahesh",
+        "app_number": "2025KARE07671"
+    },
+    {
+        "email": "simhakings98@gmail.com",
+        "slip_number": 448,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 7013491571,
+        "name": "S.NARASIMHA REDDY",
+        "app_number": "2025KARE06515"
+    },
+    {
+        "email": "himanthmighty@gmail.com",
+        "slip_number": 449,
+        "Year": "I",
+        "Branch": "CSE-AIML",
+        "phonenumber": 6301410781,
+        "name": "S. Himanth kumar",
+        "app_number": "2025KARE07058"
+    },
+    {
+        "email": "nagasaicharankumarkarreddhula@gmail.com",
+        "slip_number": 450,
+        "Year": "I",
+        "Branch": "Cse aiml",
+        "phonenumber": 8328228310,
+        "name": "K Naga sai charan kumar",
+        "app_number": "2025KARE08146"
+    },
+    {
+        "email": "avilalarohit@gmail.com",
+        "slip_number": 452,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 7013644733,
+        "name": "A.Rohith",
+        "app_number": "2025KARE05764"
+    },
+    {
+        "email": "mnathreddy94@gmail.com",
+        "slip_number": 453,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9985159199,
+        "name": "S.Manjunatha Reddy",
+        "app_number": "2025KARE06266"
+    },
+    {
+        "email": "vijayvardhanreddyporeddy@gmail.com",
+        "slip_number": 454,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8555929330,
+        "name": "Pvijay Vardhan Reddy",
+        "app_number": "2025KARE05693"
+    },
+    {
+        "email": "likith9703@gmail.com",
+        "slip_number": 455,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7815922310,
+        "name": "Gosala Likhiteswar",
+        "app_number": "2025KARE05476"
+    },
+    {
+        "email": "rachapallisaipraneethreddy@gmail.com",
+        "slip_number": 456,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7842599059,
+        "name": "sai praneeth reddy",
+        "app_number": "2025KARE06452"
+    },
+    {
+        "email": "aravind85558555@gmail.com",
+        "slip_number": 457,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8886228233,
+        "name": "V.Aravind",
+        "app_number": "2025KARE07729"
+    },
+    {
+        "email": "lokeshvadde094@gmail.com",
+        "slip_number": 458,
+        "Year": "I",
+        "Branch": "cse",
+        "phonenumber": 7842129986,
+        "name": "VADDE LOKESH",
+        "app_number": "2025KARE07734"
+    },
+    {
+        "email": "harsharoyal071@gmail.com",
+        "slip_number": 459,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9014054200,
+        "name": "C.Harsha vardhan",
+        "app_number": "2025kare05907"
+    },
+    {
+        "email": "sharath58164@gmail.com",
+        "slip_number": 460,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 7032335340,
+        "name": "Sharath",
+        "app_number": "2025KARE06273"
+    },
+    {
+        "email": "avinashpasupuleti2007@gmail.com",
+        "slip_number": 462,
+        "Year": "I",
+        "Branch": "CSE AIML",
+        "phonenumber": 7013122179,
+        "name": "P AVINASH KUMAR",
+        "app_number": "2025KARE07325"
+    },
+    {
+        "email": "lokeshvallapu333@gmail.com",
+        "slip_number": 463,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8523089817,
+        "name": "V lokesh",
+        "app_number": 99250040381
+    },
+    {
+        "email": "pamarnathreddyamar3@gmail.com",
+        "slip_number": 464,
+        "Year": "I",
+        "Branch": "CSE AI ML",
+        "phonenumber": 7013756043,
+        "name": "P.Amarnth Reddy",
+        "app_number": "2025KARE04121"
+    },
+    {
+        "email": "somalaganeshnaidu970@gmail.com",
+        "slip_number": 465,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 7032722133,
+        "name": "SOMALA GANESH NAIDU",
+        "app_number": 9925005073
+    },
+    {
+        "email": "manideepvarma.c@gmail.com",
+        "slip_number": 467,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9014861682,
+        "name": "C Manideep varma",
+        "app_number": "2025KARE00921"
+    },
+    {
+        "email": "khandareneha1111@gmail.com",
+        "slip_number": 468,
+        "Year": "I",
+        "Branch": "EEE",
+        "phonenumber": 9345723494,
+        "name": "Neha khandare",
+        "app_number": "2025KARE08698"
+    },
+    {
+        "email": "rohithreddygummireddy1234@gmail.com",
+        "slip_number": 469,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9391401229,
+        "name": "G.Rohith Reddy",
+        "app_number": 99250040266
+    },
+    {
+        "email": "gavvalanithin12@gmail.com",
+        "slip_number": 470,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7569092884,
+        "name": "G.Nithin",
+        "app_number": "2025KARE06335"
+    },
+    {
+        "email": "papireddygariindira4@gmail.com",
+        "slip_number": 471,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7981840401,
+        "name": "P.Indira",
+        "app_number": "2025KARE01711"
+    },
+    {
+        "email": "mohiniseepana2007@gmail.com",
+        "slip_number": 472,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 7330603142,
+        "name": "Mohini seepana",
+        "app_number": "2025KARE07155"
+    },
+    {
+        "email": "padmavathi.yarramsetti123@gmail.com",
+        "slip_number": 473,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8019012305,
+        "name": "Yarramsetti Padmavathi",
+        "app_number": "2025KARE07136"
+    },
+    {
+        "email": "imsuchithra.k1105@gmail.com",
+        "slip_number": 476,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 8610594459,
+        "name": "Suchithra.k",
+        "app_number": "2025KARE03041"
+    },
+    {
+        "email": "annaldaschandu5@gmail.com",
+        "slip_number": 477,
+        "Year": "I",
+        "Branch": "CSE(cybersecurity)",
+        "phonenumber": 9989647862,
+        "name": "Annaladas chandra shekar azad",
+        "app_number": 99250040176
+    },
+    {
+        "email": "divyakannan1717@gmail.com",
+        "slip_number": 478,
+        "Year": "I",
+        "Branch": "Biomedical",
+        "phonenumber": 8056741749,
+        "name": "Divya.k",
+        "app_number": "2025KARE02480"
+    },
+    {
+        "email": "gobikasundaramoorthy2008@gmail.com",
+        "slip_number": 479,
+        "Year": "I",
+        "Branch": "EEE",
+        "phonenumber": 9345357829,
+        "name": "Gobika S",
+        "app_number": "2025KARE04694"
+    },
+    {
+        "email": "sahana3663@gmail.com",
+        "slip_number": 480,
+        "Year": "I",
+        "Branch": "Food technology",
+        "phonenumber": 9344732975,
+        "name": "Sahana S A",
+        "app_number": 99250110140
+    },
+    {
+        "email": "thrishaediga05@gmail.com",
+        "slip_number": 481,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9063556606,
+        "name": "Ediga thrisha",
+        "app_number": "2025KARE04866"
+    },
+    {
+        "email": "harishponugupati27@gmail.com",
+        "slip_number": 483,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 7995463544,
+        "name": "Harish ponugupati",
+        "app_number": "20250KARE06788"
+    },
+    {
+        "email": "srikavyasathigari@gmail.com",
+        "slip_number": 484,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7995324978,
+        "name": "S.Sri Kavya",
+        "app_number": "2025KARE08690"
+    },
+    {
+        "email": "nagelikeerthana@gmail.com",
+        "slip_number": 485,
+        "Year": "I",
+        "Branch": "CSE AIML",
+        "phonenumber": 6305560863,
+        "name": "Keerthana",
+        "app_number": "2025KARE05190"
+    },
+    {
+        "email": "thummatihimabindu28@gmail.com",
+        "slip_number": 486,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8790502467,
+        "name": "Thummati Hima Bindu",
+        "app_number": "2025KARE04991"
+    },
+    {
+        "email": "singanamalasruthi0@gmail.com",
+        "slip_number": 487,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8374013952,
+        "name": "S.sruthi",
+        "app_number": "2025KARE06985"
+    },
+    {
+        "email": "bhaskarlaji34@gmail.com",
+        "slip_number": 488,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9347335684,
+        "name": "M.Lakshmi vejitha",
+        "app_number": "2025KARE04222"
+    },
+    {
+        "email": "lakshmiprasannak597@gmail.com",
+        "slip_number": 489,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 8919544751,
+        "name": "K.lakshmiprasana",
+        "app_number": "2025KARE05372"
+    },
+    {
+        "email": "saniya08786@gmail.com",
+        "slip_number": 490,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8919642315,
+        "name": "s.saniya",
+        "app_number": "2025KARE06122"
+    },
+    {
+        "email": "kaviyasri05062008@gmail.com",
+        "slip_number": 491,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9363916431,
+        "name": "Kaviyasri s s",
+        "app_number": "2025KARE04215"
+    },
+    {
+        "email": "safiyashaik1812@gmail.com",
+        "slip_number": 492,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9346141511,
+        "name": "Safiya shaik",
+        "app_number": "2025KARE06895"
+    },
+    {
+        "email": "somulapoojitha@gmail.com",
+        "slip_number": 493,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 6281173327,
+        "name": "Somula poojitha reddy",
+        "app_number": "2025KARE07806"
+    },
+    {
+        "email": "hemsai018@gmail.com",
+        "slip_number": 494,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8074205692,
+        "name": "Hemsai",
+        "app_number": "2025KARE06164"
+    },
+    {
+        "email": "abhiab47862@gmail.com",
+        "slip_number": 495,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 6305866985,
+        "name": "B.Avinash",
+        "app_number": "2025KARE06876"
+    },
+    {
+        "email": "jeshvanthreddyavuluri@gmail.com",
+        "slip_number": 496,
+        "Year": "I",
+        "Branch": "Mechanical engineering",
+        "phonenumber": 9396156156,
+        "name": "A. Jeshvanth Reddy",
+        "app_number": "2025KARE04752"
+    },
+    {
+        "email": "punithvennapusapunithvennapusa@gmail.com",
+        "slip_number": 497,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9392046041,
+        "name": "VENNAPUSA PUNENDESWARA REDDY",
+        "app_number": "2025KARE06659"
+    },
+    {
+        "email": "baireddyvenkatajaswanth@gmail.com",
+        "slip_number": 498,
+        "Year": "I",
+        "Branch": "CSE (AI&ML)",
+        "phonenumber": 9392639882,
+        "name": "Baireddy venkata jaswanth reddy",
+        "app_number": "2025KARE05025"
+    },
+    {
+        "email": "tmjagadeeswar@gmail.com",
+        "slip_number": 499,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9515156080,
+        "name": "T.Jagadeeswar",
+        "app_number": "2025KARE02743"
+    },
+    {
+        "email": "ganeshnaidu7032@gmail.com",
+        "slip_number": 500,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7794834805,
+        "name": "T siddartha",
+        "app_number": 99250036736
+    },
+    {
+        "email": "jathinreddyjathinreddy660@gmail.com",
+        "slip_number": 501,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9059629745,
+        "name": "B Jathin Reddy",
+        "app_number": "2025KARE06376"
+    },
+    {
+        "email": "kishoreapmjr@gmail.com",
+        "slip_number": 502,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9032353336,
+        "name": "ALLAM PURNA MACHARA JALA RAVI KISHORE",
+        "app_number": "2025KARE06137"
+    },
+    {
+        "email": "anumuladharmateja999@gmail.com",
+        "slip_number": 503,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9989204999,
+        "name": "A.Dharmateja",
+        "app_number": "2025KARE07695"
+    },
+    {
+        "email": "parishineniraghukumar@gmail.com",
+        "slip_number": 504,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9063807987,
+        "name": "P. Raghu kumar",
+        "app_number": "2025KARE07902"
+    },
+    {
+        "email": "prasanttanguturi@gmail.com",
+        "slip_number": 505,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9704122801,
+        "name": "T prasanth",
+        "app_number": "2025KARE07034"
+    },
+    {
+        "email": "konijetijaswanth6@gmail.com",
+        "slip_number": 506,
+        "Year": "I",
+        "Branch": "CSE AIDS",
+        "phonenumber": 7799265761,
+        "name": "jaswanth",
+        "app_number": "2025KARE06873"
+    },
+    {
+        "email": "kondrupraveen0987@gmail.com",
+        "slip_number": 507,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9666192764,
+        "name": "K.PRAVEEN KUMAR",
+        "app_number": "2025KARE06299"
+    },
+    {
+        "email": "ajmalshaaymansha@gmail.com",
+        "slip_number": 508,
+        "Year": "I",
+        "Branch": "Bsc",
+        "phonenumber": 7907487277,
+        "name": "Ajmalsha A",
+        "app_number": "2025 Kare06105"
+    },
+    {
+        "email": "praha.yerram1325@gmail.com",
+        "slip_number": 509,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7981138996,
+        "name": "Yerram Kumara Prahladha reddy",
+        "app_number": "2025KARE05564"
+    },
+    {
+        "email": "sanjeevaachuth@gmail.com",
+        "slip_number": 510,
+        "Year": "I",
+        "Branch": "CSE(ai/ml)",
+        "phonenumber": 9347460309,
+        "name": "Thallapureddy Sanjeeva Achuth Reddy",
+        "app_number": "2025KARE05535"
+    },
+    {
+        "email": "spushparaju152@gmail.com",
+        "slip_number": 511,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9391080879,
+        "name": "S PUSHPA RAJU",
+        "app_number": "2025KARE06588"
+    },
+    {
+        "email": "mahakaalmanu602@gmail.com",
+        "slip_number": 512,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9381889191,
+        "name": "S MANOJ KUMAR",
+        "app_number": "2025KARE06592"
+    },
+    {
+        "email": "m.pawan6212@gmail.com",
+        "slip_number": 513,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8897376072,
+        "name": "M.Pawan Kumar Gowda",
+        "app_number": "2025KARE07092"
+    },
+    {
+        "email": "sathibabumodalavalasa@gmail.com",
+        "slip_number": 514,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 6305210310,
+        "name": "Karthik",
+        "app_number": "2025KARE06036"
+    },
+    {
+        "email": "akulanani1910@gmail.com",
+        "slip_number": 515,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8179130326,
+        "name": "A.Naga Nageswarao",
+        "app_number": "2025KARE06059"
+    },
+    {
+        "email": "mannururaki@gmail.com",
+        "slip_number": 516,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 7207921153,
+        "name": "M.Raghavendra Reddy",
+        "app_number": "2025KARE05419"
+    },
+    {
+        "email": "nagatejareddykampamalla@gmail.com",
+        "slip_number": 517,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 9100051166,
+        "name": "kampamalla Naga Teja Reddy",
+        "app_number": "2025KARE02990"
+    },
+    {
+        "email": "aniketkumar220720050@gmail.com",
+        "slip_number": 518,
+        "Year": "I",
+        "Branch": "Cse ai ml",
+        "phonenumber": 7368853499,
+        "name": "Aniket kumar",
+        "app_number": "2025kare01271"
+    },
+    {
+        "email": "araj06178@gmail.com",
+        "slip_number": 519,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 8838576327,
+        "name": "Aman kumar",
+        "app_number": "2025KARE04157"
+    },
+    {
+        "email": "aswanikumar4309@gmail.com",
+        "slip_number": 520,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7464084918,
+        "name": "ASWANI KUMAR",
+        "app_number": "2025KARE08749"
+    },
+    {
+        "email": "charansaiburla21@gmail.com",
+        "slip_number": 523,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 9704703303,
+        "name": "Charan sai Burla",
+        "app_number": "2025KARE06889"
+    },
+    {
+        "email": "gaderakesh8978@gmail.com",
+        "slip_number": 524,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9182327450,
+        "name": "Priya",
+        "app_number": "2025KARE03705524"
+    },
+    {
+        "email": "nithinkumarreddychittireddy@gmail.com",
+        "slip_number": 525,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9392056318,
+        "name": "Ch Nithin kumar Reddy",
+        "app_number": "2025KARE05929"
+    },
+    {
+        "email": "abbukhajam@gmail.com",
+        "slip_number": 526,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9392747951,
+        "name": "Abbu.khaja moinuddin",
+        "app_number": "2025KARE06948"
+    },
+    {
+        "email": "9922005058@klu.ac.in",
+        "slip_number": 527,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 8341767028,
+        "name": "P Harshavardhan",
+        "app_number": "2025KARE03580"
+    },
+    {
+        "email": "umatejaswini2007@gmail.com",
+        "slip_number": 528,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 9632906899,
+        "name": "M.Umatejaswini",
+        "app_number": "2025KARE00439"
+    },
+    {
+        "email": "anusuriuday4@gmail.com",
+        "slip_number": 529,
+        "Year": "I",
+        "Branch": "CSE(AI&ML)",
+        "phonenumber": 9398221567,
+        "name": "A.Uday simhadri",
+        "app_number": "2025KARE06417"
+    },
+    {
+        "email": "namburirithvik@gmail.com",
+        "slip_number": 530,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7093820264,
+        "name": "N.RITHVIK KUMAR",
+        "app_number": "2025KARE05884"
+    },
+    {
+        "email": "yerranavasai9318@gmail.com",
+        "slip_number": 531,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7780357105,
+        "name": "YERRA NAVASAI",
+        "app_number": "2025KARE06947"
+    },
+    {
+        "email": "krekhareddy1986@gmail.com",
+        "slip_number": 532,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 8688730692,
+        "name": "K lepakshi reddy",
+        "app_number": "2025KARE07926"
+    },
+    {
+        "email": "siddhuroy.2007@gmail.com",
+        "slip_number": 533,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9398558834,
+        "name": "Angadi Sai Siddartha",
+        "app_number": "2025KARE06242"
+    },
+    {
+        "email": "microbharathxyz@gmail.com",
+        "slip_number": 537,
+        "Year": "I",
+        "Branch": "Biotechnology",
+        "phonenumber": 9360306746,
+        "name": "Bharath s",
+        "app_number": "2025KARE07956"
+    },
+    {
+        "email": "nageshwarreddy483@gmail.com",
+        "slip_number": 538,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9908788638,
+        "name": "P.NAGESH Reddy",
+        "app_number": "2025KARE01148"
+    },
+    {
+        "email": "bodaballabhanu630@gmail.com",
+        "slip_number": 539,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 6303055754,
+        "name": "B bhanu",
+        "app_number": "2025KARE05893"
+    },
+    {
+        "email": "baladheerajchittabathula@gmail.com",
+        "slip_number": 540,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8985058913,
+        "name": "Ch Bala Dheeraj",
+        "app_number": "2025KARE04"
+    },
+    {
+        "email": "pillenaappalaraju@gmail.com",
+        "slip_number": 541,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 7729030660,
+        "name": "Tharun kumar",
+        "app_number": "2025KARE07341"
+    },
+    {
+        "email": "sshiva87708@gmail.com",
+        "slip_number": 542,
+        "Year": "I",
+        "Branch": "Ece",
+        "phonenumber": 7386147983,
+        "name": "Shiva",
+        "app_number": "2025KARE08708"
+    },
+    {
+        "email": "mlakshmibh@gmail.com",
+        "slip_number": 543,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 8639221493,
+        "name": "M Bhanu kiran",
+        "app_number": "2025KARE06203"
+    },
+    {
+        "email": "nshravan709@gmail.com",
+        "slip_number": 544,
+        "Year": "I",
+        "Branch": "Ece",
+        "phonenumber": 7794050226,
+        "name": "N Shravan krishna",
+        "app_number": "2025KARE07567"
+    },
+    {
+        "email": "hrushisiddu21@gmail.com",
+        "slip_number": 545,
+        "Year": "I",
+        "Branch": "AI&DS",
+        "phonenumber": 7989056875,
+        "name": "N. Hrushi kesava reddy",
+        "app_number": "2025KARE04505"
+    },
+    {
+        "email": "kuttuboinabhanuprasadkuttuboin@gmail.com",
+        "slip_number": 546,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 7569443930,
+        "name": "K.Bhanu prasad",
+        "app_number": "2025KARE06574"
+    },
+    {
+        "email": "ramakrishnakusireddi@gmail.com",
+        "slip_number": 547,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 7093494146,
+        "name": "K.Rama krishna",
+        "app_number": 99250040276
+    },
+    {
+        "email": "amadasanihari143@gmail.com",
+        "slip_number": 550,
+        "Year": "I",
+        "Branch": "CSE AI&ML",
+        "phonenumber": 7989519636,
+        "name": "AMADASANI HARI",
+        "app_number": "2025KARE06575"
+    },
+    {
+        "email": "bembadivineethreddy024@gmail.com",
+        "slip_number": 601,
+        "Year": "I",
+        "Branch": "CSE AI ML",
+        "phonenumber": 6302107016,
+        "name": "BEMBADI VINEETH REDDY",
+        "app_number": "2025KARE04138"
+    },
+    {
+        "email": "dakeshtirampuram0909@gmail.com",
+        "slip_number": 602,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 8655254181,
+        "name": "Dakesh",
+        "app_number": 9925005178
+    },
+    {
+        "email": "bashasmubarak149@gmail.com",
+        "slip_number": 603,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9381167706,
+        "name": "Shaik Mubarak Basha",
+        "app_number": 99250040377
+    },
+    {
+        "email": "yadavsandeep03022007@gmail.com",
+        "slip_number": 604,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9182588442,
+        "name": "G.sandeep",
+        "app_number": "2025KARE06077"
+    },
+    {
+        "email": "keerthanasai1327@gmail.com",
+        "slip_number": 605,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8019285854,
+        "name": "S Keerthana sai",
+        "app_number": "2025KARE06310"
+    },
+    {
+        "email": "nikithaambori57@gmail.com",
+        "slip_number": 606,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9550206664,
+        "name": "Ambori Nikhitha Bai",
+        "app_number": "2025KARE04904"
+    },
+    {
+        "email": "rishi.jasper27@gmail.com",
+        "slip_number": 607,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": "95025 73135",
+        "name": "P. Rishika",
+        "app_number": "2025KARE07744"
+    },
+    {
+        "email": "sakethreddy.balireddy@gmail.com",
+        "slip_number": 608,
+        "Year": "I",
+        "Branch": "AI&DS",
+        "phonenumber": 6305683323,
+        "name": "SAKETH REDDY BALIREDDY",
+        "app_number": 9925051013
+    },
+    {
+        "email": "pragnyanannam@gmail.com",
+        "slip_number": 609,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9652967773,
+        "name": "N.pragnya",
+        "app_number": "2025KARE07154"
+    },
+    {
+        "email": "srivallynarisetty@gmail.com",
+        "slip_number": 610,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 8247487085,
+        "name": "Narisetty Srivalli",
+        "app_number": "2025Kare06673"
+    },
+    {
+        "email": "rithuvarshini649@gmail.com",
+        "slip_number": 611,
+        "Year": "I",
+        "Branch": "B.tech CSE(AIML)",
+        "phonenumber": 8438402406,
+        "name": "Rithuvarshini",
+        "app_number": 99250040639
+    },
+    {
+        "email": "sarathisarathi2971@gmail.com",
+        "slip_number": 612,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8637454871,
+        "name": "Vinothini. S",
+        "app_number": 99250040632
+    },
+    {
+        "email": "kavyaselvam2025@gmail.com",
+        "slip_number": 613,
+        "Year": "I",
+        "Branch": "Bio Technology",
+        "phonenumber": 8807461024,
+        "name": "S.kavya",
+        "app_number": 9925001029
+    },
+    {
+        "email": "mrudula978@gmail.com",
+        "slip_number": 614,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9381160494,
+        "name": "RALLABANDI MRUDULA",
+        "app_number": 9925051051
+    },
+    {
+        "email": "gnaneshwariranga@gmail.com",
+        "slip_number": 615,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9154202428,
+        "name": "R.Gnaneshwari",
+        "app_number": 99250040607
+    },
+    {
+        "email": "layasanku2008@gmail.com",
+        "slip_number": 616,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9398052383,
+        "name": "Laya sanku",
+        "app_number": 99250040688
+    },
+    {
+        "email": "govardhanambati2@gmail.com",
+        "slip_number": 617,
+        "Year": "I",
+        "Branch": "Ece",
+        "phonenumber": 7075155709,
+        "name": "Ambati.govardhan kumar",
+        "app_number": "2025KARE01106"
+    },
+    {
+        "email": "kavyadussani894@gmail.com",
+        "slip_number": 618,
+        "Year": "I",
+        "Branch": "Cse aiml",
+        "phonenumber": 9347045475,
+        "name": "Dussani kavya",
+        "app_number": 99250040234
+    },
+    {
+        "email": "manjuredd03@gmail.com",
+        "slip_number": 619,
+        "Year": "I",
+        "Branch": "Cse aiml",
+        "phonenumber": 6281875298,
+        "name": "Ganga manjunatha reddy",
+        "app_number": "2025KARE06175"
+    },
+    {
+        "email": "reddymooli70@gmail.com",
+        "slip_number": 620,
+        "Year": "I",
+        "Branch": "CSE AIML",
+        "phonenumber": 8919236345,
+        "name": "M. Ganga dhanush",
+        "app_number": "2025KARE06054"
+    },
+    {
+        "email": "rajeshmurari232@gmail.com",
+        "slip_number": 621,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9391820474,
+        "name": "M. Rajesh",
+        "app_number": "2025kARE06436"
+    },
+    {
+        "email": "ab4259265@gmail.com",
+        "slip_number": 622,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7569245936,
+        "name": "J.Anil",
+        "app_number": 99250040312
+    },
+    {
+        "email": "nandakishoreh63@gmail.com",
+        "slip_number": 623,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8790301558,
+        "name": "Nanda kishore",
+        "app_number": 99250040298
+    },
+    {
+        "email": "xdarshangowda313@gmail.com",
+        "slip_number": 624,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 9347911461,
+        "name": "K.Darshan",
+        "app_number": "2025KARE05685"
+    },
+    {
+        "email": "sangalapraneethp@gmail.com",
+        "slip_number": 625,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8688393914,
+        "name": "Praneeth kumar",
+        "app_number": 99250040682
+    },
+    {
+        "email": "sudanaguntaruthvick777@gmail.com",
+        "slip_number": 626,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9014712994,
+        "name": "S Ruthvik",
+        "app_number": "2025KARE08047"
+    },
+    {
+        "email": "kandachaitupooja@gmail.com",
+        "slip_number": 627,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 8074387974,
+        "name": "k.chaitanya",
+        "app_number": "2025KARE06499"
+    },
+    {
+        "email": "ravitejamakam08@gmail.com",
+        "slip_number": 628,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9121239968,
+        "name": "Ravi teja",
+        "app_number": "2025KARE06410"
+    },
+    {
+        "email": "kambhamlykhyareddy@gmail.com",
+        "slip_number": 629,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9154212865,
+        "name": "K.Lykhya",
+        "app_number": "2025KARE04820"
+    },
+    {
+        "email": "harikakolathuru@gmail.com",
+        "slip_number": 630,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8074651598,
+        "name": "K.Harika",
+        "app_number": "2025KARE06174"
+    },
+    {
+        "email": "vivekkavitha84@gmail.com",
+        "slip_number": 631,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9441926673,
+        "name": "K.V.Vishnu",
+        "app_number": "2025KARE08711"
+    },
+    {
+        "email": "bobbyjagannath33@gmail.com",
+        "slip_number": 632,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 6305849702,
+        "name": "M Jagannath",
+        "app_number": "2025KARE08729"
+    },
+    {
+        "email": "s3136459@gmail.com",
+        "slip_number": 633,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9912352021,
+        "name": "Sriram",
+        "app_number": "2025KARE07209"
+    },
+    {
+        "email": "gattikoppulamahipalreddy@gmail.com",
+        "slip_number": 634,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 6302180235,
+        "name": "G MAHIPAL REDDY",
+        "app_number": "2025KARE07540"
+    },
+    {
+        "email": "minniemicky463@gmail.com",
+        "slip_number": 637,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9392154029,
+        "name": "V Vijaya Durga Prasad",
+        "app_number": "2025KARE07748"
+    },
+    {
+        "email": "sangalabadrinathreddy@gmail.com",
+        "slip_number": 651,
+        "Year": "I",
+        "Branch": "CSE(AI&ML)",
+        "phonenumber": 8106613761,
+        "name": "S chandu",
+        "app_number": "2025KARE06241651"
+    },
+    {
+        "email": "bodimallaupendrareddy@gmail.com",
+        "slip_number": 652,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 8008548028,
+        "name": "B.upendra  reddy",
+        "app_number": "2025KARE06356"
+    },
+    {
+        "email": "dnvnthchenna@gmail.com",
+        "slip_number": 653,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9059741483,
+        "name": "CHENNA DHANVANTH SAI",
+        "app_number": 99250040138
+    },
+    {
+        "email": "akulayashwanth18@gmail.com",
+        "slip_number": 655,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9885710490,
+        "name": "A.Yashwanth",
+        "app_number": "2025KARE02300"
+    },
+    {
+        "email": "hemasundarbogadi@gmail.com",
+        "slip_number": 656,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 7993809134,
+        "name": "Hema Sundar",
+        "app_number": "2025KARE06885"
+    },
+    {
+        "email": "sivanesh110308@gmail.com",
+        "slip_number": 716,
+        "Year": "I",
+        "Branch": "ECE",
+        "phonenumber": 8056164177,
+        "name": "Sivanesh",
+        "app_number": "2025kare05287"
+    },
+    {
+        "email": "bmbhuvan202@gmail.com",
+        "slip_number": 298,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9945236047,
+        "name": "Bhuvan",
+        "app_number": "2025KARE06245"
+    },
+    {
+        "email": "thimmareddyraja7@gmail.com",
+        "slip_number": 385,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 6302192816,
+        "name": "T.Raja Gopal Reddy",
+        "app_number": "2025KARE05557"
+    },
+    {
+        "email": "yelamanirajachowdary@gmail.com",
+        "slip_number": 716,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7386533796,
+        "name": "Yelama Niraja",
+        "app_number": "2025KARE07168"
+    },
+    {
+        "email": "avvarilahari2@gmail.com",
+        "slip_number": 716,
+        "Year": "I",
+        "Branch": "Biotechnology",
+        "phonenumber": 9398814404,
+        "name": "A.Lahari",
+        "app_number": "2025KARE07694"
+    },
+    {
+        "email": "princy.a308@gmail.com",
+        "slip_number": "030",
+        "Year": "I",
+        "Branch": "IT",
+        "phonenumber": 6380342944,
+        "name": "Princy A",
+        "app_number": "KARE202500893"
+    },
+    {
+        "email": "nikhil363247@gmail.com",
+        "slip_number": 229,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 7416450859,
+        "name": "P Nikhil",
+        "app_number": "2025KARE06057"
+    },
+    {
+        "email": "gantabhagyasree09@gmail.com",
+        "slip_number": 716,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9347372108,
+        "name": "G.Bhagya sree",
+        "app_number": "2025KARE06543"
+    },
+    {
+        "email": "tejagayathrijonnakuti@gmail.com",
+        "slip_number": "027",
+        "Year": "I",
+        "Branch": "Food technology",
+        "phonenumber": 6304638368,
+        "name": "J Teja Gayathri",
+        "app_number": "2025KARE00399"
+    },
+    {
+        "email": "jyothikumarbelum@gmail.com",
+        "slip_number": 409,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7842646743,
+        "name": "B.Jyothi kumar reddy",
+        "app_number": "2025KARE05458"
+    },
+    {
+        "email": "venugopal939079@gmail.com",
+        "slip_number": 395,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 8790334047,
+        "name": "M venugopal",
+        "app_number": "2025KARE06612"
+    },
+    {
+        "email": "lalithrahul102@gmail.com",
+        "slip_number": 407,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9346537685,
+        "name": "MANGALI LALITH RAHUL",
+        "app_number": "2025KARE05566"
+    },
+    {
+        "email": "somesohith@gmail.com",
+        "slip_number": 284,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 6302088890,
+        "name": "S.sohith",
+        "app_number": "2025kARE02633"
+    },
+    {
+        "email": "yejjetarunkumar@gmail.com",
+        "slip_number": 283,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9701463529,
+        "name": "Y. Tarun",
+        "app_number": "2025KARE01721"
+    },
+    {
+        "email": "charan08406@gmail.com",
+        "slip_number": 638,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 7569481788,
+        "name": "B.charan sai",
+        "app_number": "2025KARE@2025"
+    },
+    {
+        "email": "pmessi146@gmail.com",
+        "slip_number": 644,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 7993756795,
+        "name": "Udayagiri ventaka praveen",
+        "app_number": "2025KARE05971"
+    },
+    {
+        "email": "sairammmm0203@gmail.com",
+        "slip_number": 399,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9642342191,
+        "name": "Sairam",
+        "app_number": "2025KARE06471"
+    },
+    {
+        "email": "vyogasreevyogasree@gmail.com",
+        "slip_number": "043",
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8688623603,
+        "name": "Vaddi Yogasree",
+        "app_number": "2025KARE05377"
+    },
+    {
+        "email": "prasannakode08@gmail.com",
+        "slip_number": 643,
+        "Year": "I",
+        "Branch": "CSE (food technology)",
+        "phonenumber": 8121119993,
+        "name": "K prasanna Lakshmi sai",
+        "app_number": "2025KARE08802"
+    },
+    {
+        "email": "keshamreddyharitejareddy@gmail.com",
+        "slip_number": 645,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9398472766,
+        "name": "K.Hari tej reddy",
+        "app_number": "2025KARE05694"
+    },
+    {
+        "email": "vaddisureshma@gmail.com",
+        "slip_number": "042",
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9014788621,
+        "name": "V.sureshna",
+        "app_number": "2025KARE07108"
+    },
+    {
+        "email": "l47795899@gmail.com",
+        "slip_number": "041",
+        "Year": "I",
+        "Branch": "Biotechnology",
+        "phonenumber": 9398814404,
+        "name": "A.Lahari",
+        "app_number": "2025KARE07694"
+    },
+    {
+        "email": "venubadita123@gmail.com",
+        "slip_number": 368,
+        "Year": "I",
+        "Branch": "CSE AI ML",
+        "phonenumber": 6303302515,
+        "name": "B.venu",
+        "app_number": "2025KARE06650"
+    },
+    {
+        "email": "nehasarin369@gmail.com",
+        "slip_number": 647,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9063021114,
+        "name": "P.neha sarin",
+        "app_number": "2025KARE06495"
+    },
+    {
+        "email": "mankulagnanendra46@gmail.com",
+        "slip_number": 394,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9942687999,
+        "name": "GNANENDRA.M",
+        "app_number": "2025KARE04152"
+    },
+    {
+        "email": "sampathkumarreddy7674@gmail.com",
+        "slip_number": 636,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9391299633,
+        "name": "K.Sampath Kumar Reddy",
+        "app_number": "2025KARE06559"
+    },
+    {
+        "email": "sangatibrahmanandhareddy607@gmail.com",
+        "slip_number": 635,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9154766580,
+        "name": "S.Brahmanandha Reddy",
+        "app_number": "2025KARE06049"
+    },
+    {
+        "email": "rishithareddy909@gmail.com",
+        "slip_number": 380,
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 9347206721,
+        "name": "Rishitha Reddy",
+        "app_number": "2025KARE06942"
+    },
+    {
+        "email": "shaiknafiya12@gmail.com",
+        "slip_number": 716,
+        "Year": "I",
+        "Branch": "Btech biotechnology",
+        "phonenumber": 8464039604,
+        "name": "Sk.Nafiya",
+        "app_number": "2025KARE08541"
+    },
+    {
+        "email": "manigovardhanreddygoraka@gmail.com",
+        "slip_number": 548,
+        "Year": "I",
+        "Branch": "Cse",
+        "phonenumber": 9121277303,
+        "name": "G Mani govardhan reddy",
+        "app_number": "2025KARE03034"
+    },
+    {
+        "email": "tharunkumarthummala@gmail.com",
+        "slip_number": "THUMMALA THARUN KUMAR",
+        "Year": "I",
+        "Branch": "CSE",
+        "phonenumber": 8328692828,
+        "name": "THUMMALA THARUN KUMAR",
+        "app_number": "2025KARE03495"
+    }
+]

@@ -27,6 +27,9 @@ app.get("/qr/:id",async (req,res)=>{
   if(!student){
     return res.status(404).send("Student not found")
   }
+  if(student.readmit){
+    return   res.json({...student,status:"admitted"})
+  }
   if(student.exit_time){
     return   res.json({...student,status:"exited"})
   }
@@ -37,12 +40,12 @@ app.get("/qr/:id",async (req,res)=>{
   res.json({...student,status:"verified"})
 })
 app.post("/admit/:id",async (req,res)=>{
-  const {time}=req.body
+  const {time,readmit}=req.body
   const student=await students.findOne({_id:new ObjectId(req.params.id)})
   if(!student){
     return res.status(404).send("Student not found")
   }
-  await students.updateOne({_id:new ObjectId(req.params.id)},{$set:{entred:true,entrey_time:time}})
+  await students.updateOne({_id:new ObjectId(req.params.id)},{$set:{entred:true,entrey_time:time,readmit}})
   axios.post("https://script.google.com/macros/s/AKfycbzdydJPV2obiLiz3fUKj3fccRjLbYtD6Ip1Tj3N0uJcN8rxFpHCW0KXoarY0jZfO4I/exec",{...student,entred:true}).then(res=>console.log(res.data)).catch(err=>console.log(err))
   res.json({...student,status:"admitted"})
 })
