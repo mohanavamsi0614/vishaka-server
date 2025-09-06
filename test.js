@@ -42,7 +42,11 @@ const transporter = nodemailer.createTransport({
   },
   service:"gmail"
 })
-const stu=[{"email":"barnessamuel2004@gmail.com",image:"https://vishaka-server.onrender.com/Samba sushanthqrcode.png"},{email:"99220041252@klu.ac.in",image:"https://vishaka-server.onrender.com/Thota.Jaimadhurishqrcode.png"},{email:"99220041551@klu.ac.in",image:"https://vishaka-server.onrender.com/Vejandla Aravind Aarivqrcode.png"}]
+const stu = [
+  { email: "barnessamuel2004@gmail.com", image: "https://vishaka-server.onrender.com/Samba%20sushanthqrcode.png" },
+  { email: "99220041252@klu.ac.in", image: "https://vishaka-server.onrender.com/Thota.Jaimadhurishqrcode.png" },
+  { email: "99220041551@klu.ac.in", image: "https://vishaka-server.onrender.com/Vejandla%20Aravind%20Aarivqrcode.png" }
+];
 for (let i of  stu){
  transporter.sendMail({
   from:"mohanavamsi14@gmail.com",

@@ -31,7 +31,7 @@ app.get("/qr/:id",async (req,res)=>{
     return   res.json({...student,status:"exited"})
   }
   if(student.entred){
-    return   res.json({...student,status:"already"})
+    return   res.json({...student,status:"admitted"})
 
   }
   res.json({...student,status:"verified"})
@@ -44,7 +44,7 @@ app.post("/admit/:id",async (req,res)=>{
   }
   await students.updateOne({_id:new ObjectId(req.params.id)},{$set:{entred:true,entrey_time:time}})
   axios.post("https://script.google.com/macros/s/AKfycbzdydJPV2obiLiz3fUKj3fccRjLbYtD6Ip1Tj3N0uJcN8rxFpHCW0KXoarY0jZfO4I/exec",{...student,entred:true}).then(res=>console.log(res.data)).catch(err=>console.log(err))
-  res.json({...student,status:"already"})
+  res.json({...student,status:"admitted"})
 })
 app.post("/exit/:id",async (req,res)=>{
   const {time}=req.body
