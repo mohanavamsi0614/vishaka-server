@@ -17,7 +17,7 @@ async function main() {
 
     console.log("Total students:", students.length);
 
-    await sendInBatches(students.slice(64), 10, 60000); // batches of 5 every 60 sec
+    await sendInBatches(students.slice(students.length-15,students.length), 10, 60000);
     console.log("✅ All emails attempted");
   } catch (err) {
     console.error("Error:", err);

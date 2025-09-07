@@ -14,6 +14,16 @@ const transporter = nodemailer.createTransport({
   },
   service:"gmail"
 })
+const transporter2 = nodemailer.createTransport({
+  auth:{
+    user:"vishakaklu@gmail.com",
+    pass:"pees ckpn kkyx uauy"
+  },
+  service:"gmail"
+})
+
+
+
 
 client.connect()
   .then(() => {
@@ -154,6 +164,7 @@ app.post("/email",async (req,res)=>{
 }).then((res)=>console.log(res)).catch(err=>console.log(err))
 res.send("Email sent")
 })
+
 app.listen(5000, () => {
   console.log("Server is running on http://localhost:5000");
 });
