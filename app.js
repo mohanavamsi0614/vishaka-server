@@ -47,26 +47,23 @@ app.get("/qr/:id",async (req,res)=>{
   if(!student){
     return res.status(404).send("Student not found")
   }
-  if(student.readmit){
-    return   res.json({...student,status:"admitted"})
-  }
-  if(student.exit_time){
+  if(student.exit_time_2){
     return   res.json({...student,status:"exited"})
   }
-  if(student.entred){
+  if(student.entred_2){
     return   res.json({...student,status:"admitted"})
 
   }
   res.json({...student,status:"verified"})
 })
 app.post("/admit/:id",async (req,res)=>{
-  const {time,readmit}=req.body
+  const {time}=req.body
   const student=await students.findOne({_id:new ObjectId(req.params.id)})
   if(!student){
     return res.status(404).send("Student not found")
   }
-  await students.updateOne({_id:new ObjectId(req.params.id)},{$set:{entred:true,entrey_time:time,readmit}})
-  axios.post("https://script.google.com/macros/s/AKfycbzdydJPV2obiLiz3fUKj3fccRjLbYtD6Ip1Tj3N0uJcN8rxFpHCW0KXoarY0jZfO4I/exec",{...student,entred:true}).then(res=>console.log(res.data)).catch(err=>console.log(err))
+  await students.updateOne({_id:new ObjectId(req.params.id)},{$set:{entred_2:true,entrey_time_2:time,readmit}})
+  axios.post("https://script.google.com/macros/s/AKfycbzDMCmMwGrMbZcl9nFHfG_5hvLViIXogEq86cTSngDIHQiBrNIWlrvSpTmy3vQxuzzj/exec",{...student,entred:"enter"}).then(res=>console.log(res.data)).catch(err=>console.log(err))
   res.json({...student,status:"admitted"})
 })
 app.post("/exit/:id",async (req,res)=>{
@@ -75,8 +72,8 @@ app.post("/exit/:id",async (req,res)=>{
   if(!student){
     return res.status(404).send("Student not found")
   }
-  await students.updateOne({_id:new ObjectId(req.params.id)},{$set:{exit_time:time}})
-  axios.post("https://script.google.com/macros/s/AKfycbzdydJPV2obiLiz3fUKj3fccRjLbYtD6Ip1Tj3N0uJcN8rxFpHCW0KXoarY0jZfO4I/exec",{...student,entred:false}).then(res=>console.log(res.data)).catch(err=>console.log(err))
+  await students.updateOne({_id:new ObjectId(req.params.id)},{$set:{exit_time_2:time}})
+  axios.post("https://script.google.com/macros/s/AKfycbzDMCmMwGrMbZcl9nFHfG_5hvLViIXogEq86cTSngDIHQiBrNIWlrvSpTmy3vQxuzzj/exec",{...student,entred:"exit"}).then(res=>console.log(res.data)).catch(err=>console.log(err))
   res.json({...student,status:"exited"})
 })
 app.get("/all",async (req,res)=>{
