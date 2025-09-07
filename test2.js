@@ -17,7 +17,7 @@ const students = client.db("spraks").collection("students").find().toArray().the
 
 for(let i of students.slice(students.length-100,students.length+1)){
 axios.get(
-  'https://api.qrserver.com/v1/create-qr-code/?data=' + encodeURIComponent('https://vishaka-server.onrender.com/'+i._id) + '&size=200x200',
+  'https://api.qrserver.com/v1/create-qr-code/?data=' + encodeURIComponent('https://vishaka-server.onrender.com/qr/'+i._id) + '&size=200x200',
   { responseType: 'stream' }
 ).then(response => {
   // Write response data (as a stream) directly to a file
