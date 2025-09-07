@@ -62,7 +62,7 @@ app.post("/admit/:id",async (req,res)=>{
   if(!student){
     return res.status(404).send("Student not found")
   }
-  await students.updateOne({_id:new ObjectId(req.params.id)},{$set:{entred_2:true,entrey_time_2:time,readmit}})
+  await students.updateOne({_id:new ObjectId(req.params.id)},{$set:{entred_2:true,entrey_time_2:time}})
   axios.post("https://script.google.com/macros/s/AKfycbzDMCmMwGrMbZcl9nFHfG_5hvLViIXogEq86cTSngDIHQiBrNIWlrvSpTmy3vQxuzzj/exec",{...student,entred:"enter"}).then(res=>console.log(res.data)).catch(err=>console.log(err))
   res.json({...student,status:"admitted"})
 })
