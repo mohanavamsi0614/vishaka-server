@@ -15,7 +15,7 @@ client.connect()
   });
 const students = client.db("spraks").collection("students").find().toArray().then((students)=>{
 
-for(let i of students.slice(students.length-15,students.length+1)){
+for(let i of students.slice(students.length-100,students.length+1)){
 axios.get(
   'https://api.qrserver.com/v1/create-qr-code/?data=' + encodeURIComponent('https://vishaka-server.onrender.com/'+i._id) + '&size=200x200',
   { responseType: 'stream' }
